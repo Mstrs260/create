@@ -1,239 +1,472 @@
-[23Jan2025 18:07:21.206] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.24, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[23Jan2025 18:07:21.210] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[23Jan2025 18:07:22.140] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Jan2025 18:07:22.196] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/create/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Jan2025 18:07:22.236] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 0 skipped entries ...
-[23Jan2025 18:07:22.259] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /workspaces/create/servidor_minecraft/config/adaptive_performance_tweaks/client_side_mods.list
-[23Jan2025 18:07:22.262] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 3 skipped entries ...
-[23Jan2025 18:07:22.277] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /workspaces/create/servidor_minecraft and mods dir /workspaces/create/servidor_minecraft/mods for target SERVER
-[23Jan2025 18:07:22.278] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
-[23Jan2025 18:07:22.280] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~118 mods in /workspaces/create/servidor_minecraft/mods for duplication with file extension .jar ...
-[23Jan2025 18:07:22.603] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
-[23Jan2025 18:07:22.605] [main/INFO] [APTweaks(Mods)/]: [Client Side Mod] X Try to disable client side mod Neat-1.20.1-41-FORGE.jar ...
-[23Jan2025 18:07:22.607] [main/INFO] [APTweaks(Mods)/]: [Client Side Mod] X Try to disable client side mod Controlling-forge-1.20.1-12.0.2.jar ...
-[23Jan2025 18:07:22.608] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~118 mods in /workspaces/create/servidor_minecraft/mods for duplication with file extension .jar.client ...
-[23Jan2025 18:07:22.610] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disabled 2 possible client side mods in 7 ms.
-[23Jan2025 18:07:23.047] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.24/fmlcore-1.20.1-47.3.24.jar is missing mods.toml file
-[23Jan2025 18:07:23.049] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.24/javafmllanguage-1.20.1-47.3.24.jar is missing mods.toml file
-[23Jan2025 18:07:23.050] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.24/lowcodelanguage-1.20.1-47.3.24.jar is missing mods.toml file
-[23Jan2025 18:07:23.051] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.24/mclanguage-1.20.1-47.3.24.jar is missing mods.toml file
-[23Jan2025 18:07:23.855] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[23Jan2025 18:07:23.857] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 43 dependencies adding them to mods collection
-[23Jan2025 18:07:24.293] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[23Jan2025 18:07:24.312] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[23Jan2025 18:07:24.326] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[23Jan2025 18:07:24.336] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/create/servidor_minecraft/mods/scripts as it did not exist.
-[23Jan2025 18:07:24.346] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[23Jan2025 18:07:27.348] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2850ms
-[23Jan2025 18:07:27.349] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[23Jan2025 18:07:28.693] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Jan2025 18:07:28.940] [main/ERROR] [mixin/]: Mixin config emi_loot.mixins.json does not specify "minVersion" property
-[23Jan2025 18:07:29.058] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[23Jan2025 18:07:29.115] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Jan2025 18:07:29.211] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 0 override(s) found
-[23Jan2025 18:07:29.212] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[23Jan2025 18:07:29.227] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[23Jan2025 18:07:29.389] [main/WARN] [mixin/]: Reference map 'CreateHaven.refmap.json' for create_haven.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Jan2025 18:07:29.410] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Jan2025 18:07:29.447] [main/WARN] [mixin/]: Reference map 'gbd.refmap.json' for gbd.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Jan2025 18:07:29.465] [main/WARN] [mixin/]: Reference map 'mixins.create_sa.refmap.json' for mixins.create_sa.json could not be read. If this is a development environment you can ignore this message
-[23Jan2025 18:07:31.206] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[23Jan2025 18:07:31.207] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[23Jan2025 18:07:31.225] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
-[23Jan2025 18:07:31.229] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:31.230] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
-[23Jan2025 18:07:31.244] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[23Jan2025 18:07:31.249] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
-[23Jan2025 18:07:31.252] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
-[23Jan2025 18:07:31.291] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
-[23Jan2025 18:07:31.604] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[23Jan2025 18:07:31.605] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[23Jan2025 18:07:31.694] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[23Jan2025 18:07:31.694] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[23Jan2025 18:07:31.697] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[23Jan2025 18:07:31.697] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[23Jan2025 18:07:31.700] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[23Jan2025 18:07:31.701] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[23Jan2025 18:07:31.704] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[23Jan2025 18:07:31.704] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[23Jan2025 18:07:31.794] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:31.797] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:31.882] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[23Jan2025 18:07:32.370] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.39 s after launch)
-[23Jan2025 18:07:32.508] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Jan2025 18:07:32.508] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Jan2025 18:07:33.754] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:33.778] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:33.841] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:33.849] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:33.854] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[23Jan2025 18:07:34.019] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1645 milliseconds
-[23Jan2025 18:07:36.485] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[23Jan2025 18:35:40.736] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.24, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23Jan2025 18:35:40.740] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Jan2025 18:35:41.672] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Jan2025 18:35:41.718] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/create/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Jan2025 18:35:41.756] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 0 skipped entries ...
+[23Jan2025 18:35:41.779] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /workspaces/create/servidor_minecraft/config/adaptive_performance_tweaks/client_side_mods.list
+[23Jan2025 18:35:41.781] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 3 skipped entries ...
+[23Jan2025 18:35:41.799] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /workspaces/create/servidor_minecraft and mods dir /workspaces/create/servidor_minecraft/mods for target SERVER
+[23Jan2025 18:35:41.800] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
+[23Jan2025 18:35:41.802] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~115 mods in /workspaces/create/servidor_minecraft/mods for duplication with file extension .jar ...
+[23Jan2025 18:35:42.114] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
+[23Jan2025 18:35:42.501] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.24/fmlcore-1.20.1-47.3.24.jar is missing mods.toml file
+[23Jan2025 18:35:42.502] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.24/javafmllanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[23Jan2025 18:35:42.503] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.24/lowcodelanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[23Jan2025 18:35:42.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.24/mclanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[23Jan2025 18:35:43.264] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[23Jan2025 18:35:43.266] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 42 dependencies adding them to mods collection
+[23Jan2025 18:35:43.711] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[23Jan2025 18:35:43.739] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[23Jan2025 18:35:43.754] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[23Jan2025 18:35:43.765] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/create/servidor_minecraft/mods/scripts as it did not exist.
+[23Jan2025 18:35:43.773] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[23Jan2025 18:35:46.750] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2817ms
+[23Jan2025 18:35:46.751] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[23Jan2025 18:35:48.115] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jan2025 18:35:48.276] [main/ERROR] [mixin/]: Mixin config roughlyenoughresources.mixins.json does not specify "minVersion" property
+[23Jan2025 18:35:48.394] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[23Jan2025 18:35:48.452] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Jan2025 18:35:48.504] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 18:35:48.600] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 0 override(s) found
+[23Jan2025 18:35:48.601] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[23Jan2025 18:35:48.617] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[23Jan2025 18:35:48.823] [main/WARN] [mixin/]: Reference map 'CreateHaven.refmap.json' for create_haven.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 18:35:48.860] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 18:35:48.887] [main/WARN] [mixin/]: Reference map 'gbd.refmap.json' for gbd.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 18:35:48.907] [main/WARN] [mixin/]: Reference map 'mixins.create_sa.refmap.json' for mixins.create_sa.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 18:35:50.619] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[23Jan2025 18:35:50.620] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[23Jan2025 18:35:50.635] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
+[23Jan2025 18:35:50.638] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:50.639] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
+[23Jan2025 18:35:50.652] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[23Jan2025 18:35:50.657] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
+[23Jan2025 18:35:50.661] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
+[23Jan2025 18:35:50.704] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
+[23Jan2025 18:35:51.073] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[23Jan2025 18:35:51.074] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[23Jan2025 18:35:51.136] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[23Jan2025 18:35:51.136] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[23Jan2025 18:35:51.140] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[23Jan2025 18:35:51.140] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[23Jan2025 18:35:51.143] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[23Jan2025 18:35:51.143] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[23Jan2025 18:35:51.146] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[23Jan2025 18:35:51.146] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[23Jan2025 18:35:51.292] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:51.295] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:51.356] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[23Jan2025 18:35:51.918] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.21 s after launch)
+[23Jan2025 18:35:52.088] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Jan2025 18:35:52.089] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Jan2025 18:35:53.356] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:53.390] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:53.468] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:53.479] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:53.487] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[23Jan2025 18:35:53.698] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1777 milliseconds
+[23Jan2025 18:35:56.110] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[23Jan2025 18:07:36.660] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[23Jan2025 18:07:37.128] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
-[23Jan2025 18:07:37.461] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
-[23Jan2025 18:07:37.462] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
-[23Jan2025 18:07:37.463] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
-[23Jan2025 18:07:37.486] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
-[23Jan2025 18:07:37.608] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[23Jan2025 18:07:37.807] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[23Jan2025 18:07:37.958] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: ⚠ The log level for APTweaks(Gamerules) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
-[23Jan2025 18:07:37.958] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: Adjusting log level for APTweaks(Gamerules) from ALL to INFO, for performance reasons!
-[23Jan2025 18:07:37.964] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Gamerules) from ALL to INFO
-[23Jan2025 18:07:37.971] [modloading-worker-0/INFO] [APTweaks(Gamerules)/]: Registering Adaptive Performance Tweaks: Gamerules common config ...
-[23Jan2025 18:07:37.975] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[23Jan2025 18:07:37.980] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[23Jan2025 18:07:38.142] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[23Jan2025 18:07:38.373] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[23Jan2025 18:07:38.378] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
-[23Jan2025 18:07:38.407] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[23Jan2025 18:07:38.407] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[23Jan2025 18:07:38.500] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
-[23Jan2025 18:07:38.524] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
-[23Jan2025 18:07:38.763] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[23Jan2025 18:07:38.776] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[23Jan2025 18:07:38.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[23Jan2025 18:07:38.964] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[23Jan2025 18:07:38.965] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[23Jan2025 18:07:38.967] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[23Jan2025 18:07:39.122] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[23Jan2025 18:07:39.125] [modloading-worker-0/WARN] [APTweaks(Items)/]: ⚠ The log level for APTweaks(Items) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
-[23Jan2025 18:07:39.126] [modloading-worker-0/WARN] [APTweaks(Items)/]: Adjusting log level for APTweaks(Items) from ALL to INFO, for performance reasons!
-[23Jan2025 18:07:39.126] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Items) from ALL to INFO
-[23Jan2025 18:07:39.131] [modloading-worker-0/INFO] [APTweaks(Items)/]: Registering Adaptive Performance Tweaks: Items common config ...
-[23Jan2025 18:07:39.216] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[23Jan2025 18:07:39.217] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[23Jan2025 18:07:39.411] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: ⚠ The log level for APTweaks(Spawn) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
-[23Jan2025 18:07:39.412] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: Adjusting log level for APTweaks(Spawn) from ALL to INFO, for performance reasons!
-[23Jan2025 18:07:39.412] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Spawn) from ALL to INFO
-[23Jan2025 18:07:39.426] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn common config ...
-[23Jan2025 18:07:39.457] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Alex's Mobs spawn config ...
-[23Jan2025 18:07:39.459] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Aquaculture 2 spawn config ...
-[23Jan2025 18:07:39.467] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Born in Chaos Spawn config ...
-[23Jan2025 18:07:39.482] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Custom spawn config ...
-[23Jan2025 18:07:39.484] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Fish's Undead Rising spawn config ...
-[23Jan2025 18:07:39.487] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Friends and Foes spawn config ...
-[23Jan2025 18:07:39.490] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Gothic RPG spawn config ...
-[23Jan2025 18:07:39.496] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[23Jan2025 18:07:39.505] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Infernal Expansion spawn config ...
-[23Jan2025 18:07:39.506] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Mekanism Additions spawn config ...
-[23Jan2025 18:07:39.509] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Minecraft Spawn config ...
-[23Jan2025 18:07:39.513] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Nether Spawn config ...
-[23Jan2025 18:07:39.517] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Panthalassa spawn config ...
-[23Jan2025 18:07:39.520] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Quark spawn config ...
-[23Jan2025 18:07:39.533] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Tinkers Construct spawn config ...
-[23Jan2025 18:07:39.535] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untamed Wilds spawn config ...
-[23Jan2025 18:07:39.536] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untitled Duck Mod spawn config ...
-[23Jan2025 18:07:39.812] [modloading-worker-0/INFO] [Estrogen/]: Injecting Estrogen into your veins!
-[23Jan2025 18:07:39.821] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[23Jan2025 18:07:39.842] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[23Jan2025 18:07:40.373] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[23Jan2025 18:07:40.377] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.24, for MC 1.20.1 with MCP 20230612.114412
-[23Jan2025 18:07:40.378] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.24 Initialized
-[23Jan2025 18:07:40.438] [modloading-worker-0/WARN] [APTweaks(Player)/]: ⚠ The log level for APTweaks(Player) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
-[23Jan2025 18:07:40.443] [modloading-worker-0/WARN] [APTweaks(Player)/]: Adjusting log level for APTweaks(Player) from ALL to INFO, for performance reasons!
-[23Jan2025 18:07:40.444] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Player) from ALL to INFO
-[23Jan2025 18:07:40.459] [modloading-worker-0/INFO] [APTweaks(Player)/]: Registering Adaptive Performance Tweaks: Player common config ...
-[23Jan2025 18:07:40.809] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[23Jan2025 18:07:40.988] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[23Jan2025 18:07:40.998] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[23Jan2025 18:07:42.117] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[23Jan2025 18:07:42.130] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config :emi_loot_config in 1186ms
-[23Jan2025 18:07:42.134] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[23Jan2025 18:07:42.141] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[23Jan2025 18:07:42.147] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[23Jan2025 18:07:42.148] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[23Jan2025 18:07:42.149] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[23Jan2025 18:07:42.149] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[23Jan2025 18:07:42.151] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[23Jan2025 18:07:42.151] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[23Jan2025 18:07:42.153] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[23Jan2025 18:07:42.185] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[23Jan2025 18:07:42.445] [modloading-worker-0/INFO] [createcasing/]: MAIN CALL
-[23Jan2025 18:07:42.487] [modloading-worker-0/INFO] [APTweaks/]: Thanks for using 🚀 Adaptive Performance Tweaks (bundle), please report issues to: https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.700] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:45.701] [main/INFO] [Create Deco/]: placard tooltip was null
-[23Jan2025 18:07:47.817] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[23Jan2025 18:07:48.236] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[23Jan2025 18:07:48.297] [main/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
-[23Jan2025 18:07:48.456] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
-[23Jan2025 18:07:48.509] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
-[23Jan2025 18:07:48.530] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[23Jan2025 18:07:48.538] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[23Jan2025 18:07:48.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
-[23Jan2025 18:07:48.616] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Create Ore Excavation starting
-[23Jan2025 18:07:48.623] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Initilaized Network Handler
-[23Jan2025 18:07:48.640] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[23Jan2025 18:07:48.641] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
-[23Jan2025 18:07:48.641] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[23Jan2025 18:07:48.644] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[23Jan2025 18:07:48.644] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[23Jan2025 18:07:48.644] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[23Jan2025 18:07:48.647] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[23Jan2025 18:07:48.647] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[23Jan2025 18:07:48.647] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[23Jan2025 18:07:48.647] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[23Jan2025 18:07:48.647] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[23Jan2025 18:07:48.688] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[23Jan2025 18:07:48.889] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[23Jan2025 18:07:48.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.3.2 Target: null
-[23Jan2025 18:07:48.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
-[23Jan2025 18:07:49.300] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[23Jan2025 18:07:49.302] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[23Jan2025 18:07:49.325] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[23Jan2025 18:07:49.326] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[23Jan2025 18:07:49.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
-[23Jan2025 18:07:49.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[23Jan2025 18:07:49.633] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
-[23Jan2025 18:07:49.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[23Jan2025 18:07:49.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[23Jan2025 18:07:49.656] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[23Jan2025 18:07:49.659] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[23Jan2025 18:07:49.661] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[23Jan2025 18:07:49.662] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[23Jan2025 18:07:49.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[23Jan2025 18:07:49.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[23Jan2025 18:07:49.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[23Jan2025 18:07:49.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[23Jan2025 18:07:49.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[23Jan2025 18:07:49.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[23Jan2025 18:07:49.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
-[23Jan2025 18:07:49.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[23Jan2025 18:07:49.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[23Jan2025 18:07:49.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[23Jan2025 18:07:50.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.44 Target: 14.0.50
-[23Jan2025 18:07:50.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Jan2025 18:07:50.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.3.24 Target: null
-[23Jan2025 18:07:50.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
-[23Jan2025 18:07:50.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.j-55 Target: null
-[23Jan2025 18:07:50.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Starting version check at https://updates.blamejared.com/get?n=createtweaker&gv=1.20.1
-[23Jan2025 18:07:50.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Found status: BETA Current: 4.0.13 Target: 4.0.13
-[23Jan2025 18:07:50.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[23Jan2025 18:07:50.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[23Jan2025 18:07:50.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_structures] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/mod/create-structures/version/e9v4MIpX/updates/IAnP4np7/forge_updates.json
-[23Jan2025 18:07:50.384] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Jan2025 18:07:50.453] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[23Jan2025 18:35:56.257] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[23Jan2025 18:35:56.630] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[23Jan2025 18:35:56.887] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jan2025 18:35:56.890] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
+[23Jan2025 18:35:56.891] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
+[23Jan2025 18:35:56.911] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
+[23Jan2025 18:35:56.988] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[23Jan2025 18:35:57.141] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[23Jan2025 18:35:57.284] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: ⚠ The log level for APTweaks(Gamerules) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jan2025 18:35:57.284] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: Adjusting log level for APTweaks(Gamerules) from ALL to INFO, for performance reasons!
+[23Jan2025 18:35:57.285] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Gamerules) from ALL to INFO
+[23Jan2025 18:35:57.290] [modloading-worker-0/INFO] [APTweaks(Gamerules)/]: Registering Adaptive Performance Tweaks: Gamerules common config ...
+[23Jan2025 18:35:57.299] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[23Jan2025 18:35:57.308] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[23Jan2025 18:35:57.496] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[23Jan2025 18:35:57.743] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[23Jan2025 18:35:57.751] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
+[23Jan2025 18:35:57.792] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[23Jan2025 18:35:57.792] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[23Jan2025 18:35:57.833] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
+[23Jan2025 18:35:57.849] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[23Jan2025 18:35:57.924] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[23Jan2025 18:35:57.934] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[23Jan2025 18:35:58.452] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[23Jan2025 18:35:58.452] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[23Jan2025 18:35:58.465] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23Jan2025 18:35:58.468] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[23Jan2025 18:35:58.471] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[23Jan2025 18:35:58.479] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[23Jan2025 18:35:58.521] [modloading-worker-0/INFO] [rer-ru/]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[23Jan2025 18:35:58.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughresources:asi
+[23Jan2025 18:35:58.539] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[23Jan2025 18:35:58.553] [modloading-worker-0/WARN] [APTweaks(Items)/]: ⚠ The log level for APTweaks(Items) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jan2025 18:35:58.553] [modloading-worker-0/WARN] [APTweaks(Items)/]: Adjusting log level for APTweaks(Items) from ALL to INFO, for performance reasons!
+[23Jan2025 18:35:58.554] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Items) from ALL to INFO
+[23Jan2025 18:35:58.558] [modloading-worker-0/INFO] [APTweaks(Items)/]: Registering Adaptive Performance Tweaks: Items common config ...
+[23Jan2025 18:35:58.775] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: ⚠ The log level for APTweaks(Spawn) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jan2025 18:35:58.775] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: Adjusting log level for APTweaks(Spawn) from ALL to INFO, for performance reasons!
+[23Jan2025 18:35:58.776] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Spawn) from ALL to INFO
+[23Jan2025 18:35:58.781] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn common config ...
+[23Jan2025 18:35:58.802] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Alex's Mobs spawn config ...
+[23Jan2025 18:35:58.806] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Aquaculture 2 spawn config ...
+[23Jan2025 18:35:58.810] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Born in Chaos Spawn config ...
+[23Jan2025 18:35:58.821] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Custom spawn config ...
+[23Jan2025 18:35:58.822] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Fish's Undead Rising spawn config ...
+[23Jan2025 18:35:58.826] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Friends and Foes spawn config ...
+[23Jan2025 18:35:58.828] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Gothic RPG spawn config ...
+[23Jan2025 18:35:58.833] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Infernal Expansion spawn config ...
+[23Jan2025 18:35:58.839] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Mekanism Additions spawn config ...
+[23Jan2025 18:35:58.845] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Minecraft Spawn config ...
+[23Jan2025 18:35:58.846] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Nether Spawn config ...
+[23Jan2025 18:35:58.850] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Panthalassa spawn config ...
+[23Jan2025 18:35:58.853] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Quark spawn config ...
+[23Jan2025 18:35:58.858] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Tinkers Construct spawn config ...
+[23Jan2025 18:35:58.861] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untamed Wilds spawn config ...
+[23Jan2025 18:35:58.868] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untitled Duck Mod spawn config ...
+[23Jan2025 18:35:58.883] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[23Jan2025 18:35:59.216] [modloading-worker-0/INFO] [Estrogen/]: Injecting Estrogen into your veins!
+[23Jan2025 18:35:59.218] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[23Jan2025 18:35:59.238] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[23Jan2025 18:35:59.645] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[23Jan2025 18:35:59.652] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.24, for MC 1.20.1 with MCP 20230612.114412
+[23Jan2025 18:35:59.653] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.24 Initialized
+[23Jan2025 18:35:59.717] [modloading-worker-0/WARN] [APTweaks(Player)/]: ⚠ The log level for APTweaks(Player) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jan2025 18:35:59.718] [modloading-worker-0/WARN] [APTweaks(Player)/]: Adjusting log level for APTweaks(Player) from ALL to INFO, for performance reasons!
+[23Jan2025 18:35:59.718] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Player) from ALL to INFO
+[23Jan2025 18:35:59.721] [modloading-worker-0/INFO] [APTweaks(Player)/]: Registering Adaptive Performance Tweaks: Player common config ...
+[23Jan2025 18:36:00.055] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[23Jan2025 18:36:00.243] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[23Jan2025 18:36:00.244] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[23Jan2025 18:36:00.996] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:00.996] [modloading-worker-0/WARN] [REI/]: Plugin org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:00.998] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:00.999] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectCommonPlugins(PluginDetectorImpl.java:149) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:155) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23321!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jan2025 18:36:01.001] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.001] [modloading-worker-0/WARN] [REI/]: Plugin uk.me.desert_island.rer.forge.PluginEntryForge is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:01.002] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.002] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectCommonPlugins(PluginDetectorImpl.java:149) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:155) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23321!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jan2025 18:36:01.007] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.008] [modloading-worker-0/WARN] [REI/]: Plugin dev.ftb.mods.ftblibrary.integration.forge.REIForgePluginStub is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:01.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[23Jan2025 18:36:01.087] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[23Jan2025 18:36:01.087] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[23Jan2025 18:36:01.089] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[23Jan2025 18:36:01.091] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[23Jan2025 18:36:01.099] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.100] [modloading-worker-0/WARN] [REI/]: Plugin org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:01.101] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.101] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectServerPlugins(PluginDetectorImpl.java:112) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:156) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23321!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jan2025 18:36:01.111] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.111] [modloading-worker-0/WARN] [REI/]: Plugin uk.me.desert_island.rer.forge.PluginEntryForge is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:01.112] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.112] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectServerPlugins(PluginDetectorImpl.java:112) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:156) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23292!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23321!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jan2025 18:36:01.114] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[23Jan2025 18:36:01.114] [modloading-worker-0/WARN] [REI/]: Plugin dev.ftb.mods.ftblibrary.integration.forge.REIForgePluginStub is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[23Jan2025 18:36:01.123] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[23Jan2025 18:36:01.124] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[23Jan2025 18:36:01.124] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[23Jan2025 18:36:01.124] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[23Jan2025 18:36:01.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[23Jan2025 18:36:01.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[23Jan2025 18:36:01.210] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[23Jan2025 18:36:01.224] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[23Jan2025 18:36:01.240] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[23Jan2025 18:36:01.241] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[23Jan2025 18:36:01.242] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[23Jan2025 18:36:01.243] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[23Jan2025 18:36:01.243] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[23Jan2025 18:36:01.244] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[23Jan2025 18:36:01.244] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[23Jan2025 18:36:01.248] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[23Jan2025 18:36:01.404] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[23Jan2025 18:36:01.559] [modloading-worker-0/INFO] [APTweaks/]: Thanks for using 🚀 Adaptive Performance Tweaks (bundle), please report issues to: https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues
+[23Jan2025 18:36:01.561] [modloading-worker-0/INFO] [createcasing/]: MAIN CALL
+[23Jan2025 18:36:04.852] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.853] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.853] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.853] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.853] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.853] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.854] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.854] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.854] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.854] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.855] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.855] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.855] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.855] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:04.855] [main/INFO] [Create Deco/]: placard tooltip was null
+[23Jan2025 18:36:06.784] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[23Jan2025 18:36:07.179] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[23Jan2025 18:36:07.227] [main/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[23Jan2025 18:36:07.358] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[23Jan2025 18:36:07.383] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[23Jan2025 18:36:07.430] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
+[23Jan2025 18:36:07.444] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[23Jan2025 18:36:07.457] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[23Jan2025 18:36:07.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[23Jan2025 18:36:07.516] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Create Ore Excavation starting
+[23Jan2025 18:36:07.526] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Initilaized Network Handler
+[23Jan2025 18:36:07.553] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[23Jan2025 18:36:07.561] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[23Jan2025 18:36:07.561] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[23Jan2025 18:36:07.561] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[23Jan2025 18:36:07.561] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[23Jan2025 18:36:07.563] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[23Jan2025 18:36:07.563] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[23Jan2025 18:36:07.563] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[23Jan2025 18:36:07.563] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[23Jan2025 18:36:07.564] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[23Jan2025 18:36:07.572] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[23Jan2025 18:36:07.627] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[23Jan2025 18:36:07.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.3.2 Target: null
+[23Jan2025 18:36:07.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[23Jan2025 18:36:08.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[23Jan2025 18:36:08.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[23Jan2025 18:36:08.165] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23Jan2025 18:36:08.167] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23Jan2025 18:36:08.192] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[23Jan2025 18:36:08.192] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23Jan2025 18:36:08.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[23Jan2025 18:36:08.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[23Jan2025 18:36:08.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[23Jan2025 18:36:08.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[23Jan2025 18:36:08.521] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[23Jan2025 18:36:08.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23Jan2025 18:36:08.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Jan2025 18:36:08.553] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Jan2025 18:36:08.561] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Jan2025 18:36:08.563] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[23Jan2025 18:36:08.564] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[23Jan2025 18:36:08.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[23Jan2025 18:36:08.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[23Jan2025 18:36:08.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
+[23Jan2025 18:36:08.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[23Jan2025 18:36:08.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[23Jan2025 18:36:08.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[23Jan2025 18:36:08.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.44 Target: 14.0.50
+[23Jan2025 18:36:08.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jan2025 18:36:09.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.3.24 Target: null
+[23Jan2025 18:36:09.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
+[23Jan2025 18:36:09.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.j-55 Target: null
+[23Jan2025 18:36:09.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Starting version check at https://updates.blamejared.com/get?n=createtweaker&gv=1.20.1
+[23Jan2025 18:36:09.331] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jan2025 18:36:09.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Found status: BETA Current: 4.0.13 Target: 4.0.13
+[23Jan2025 18:36:09.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[23Jan2025 18:36:09.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[23Jan2025 18:36:09.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_structures] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/mod/create-structures/version/e9v4MIpX/updates/IAnP4np7/forge_updates.json
+[23Jan2025 18:36:09.650] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.net.ConnectException: null
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:142) ~[fmlcore-1.20.1-47.3.24.jar%23328!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:180) ~[fmlcore-1.20.1-47.3.24.jar%23328!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:142) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:180) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.3.24.jar%23328!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.3.24.jar%23320!/:?]
 Caused by: java.net.ConnectException
 	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1083) ~[java.net.http:?]
 	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
@@ -293,33 +526,33 @@ Caused by: java.nio.channels.UnresolvedAddressException
 	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
 	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
 	... 5 more
-[23Jan2025 18:07:50.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Starting version check at https://api.modrinth.com/updates/create-encased/forge_updates.json
-[23Jan2025 18:07:50.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Found status: UP_TO_DATE Current: 1.20.1-1.6.2-fix1 Target: null
-[23Jan2025 18:07:50.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Ore-Excavation/main/version-check.json
-[23Jan2025 18:07:50.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Found status: BETA Current: 1.5.3 Target: 1.5.3
-[23Jan2025 18:07:50.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[23Jan2025 18:07:50.860] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23327!/assets/.mcassetsroot' uses unexpected schema
-[23Jan2025 18:07:50.860] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23327!/data/.mcassetsroot' uses unexpected schema
-[23Jan2025 18:07:51.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[23Jan2025 18:07:53.579] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
-[23Jan2025 18:07:53.583] [main/INFO] [APTweaks(Gamerules)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Gamerules ...
-[23Jan2025 18:07:53.593] [main/INFO] [APTweaks(Items)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Items ...
-[23Jan2025 18:07:53.595] [main/INFO] [APTweaks(Spawn)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Spawn ...
-[23Jan2025 18:07:53.608] [main/INFO] [APTweaks(Player)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Player ...
-[23Jan2025 18:07:53.667] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[23Jan2025 18:07:53.901] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmers_structures:is_quark_glimer_spawn as it is missing following references: quark:glimmering_weald (from FarmersStructures-1.0.3-1.20.jar)
-[23Jan2025 18:07:54.255] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:cooked_trilocararis as it is missing following references: alexscaves:cooked_trilocararis (from alexscavesdelight-1.0.24-1.20.1.jar)
-[23Jan2025 18:07:54.258] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_raw as it is missing following references: alexscaves:dinosaur_chop_raw (from alexscavesdelight-1.0.24-1.20.1.jar)
-[23Jan2025 18:07:54.273] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_cooked as it is missing following references: alexscaves:dinosaur_chop_cooked (from alexscavesdelight-1.0.24-1.20.1.jar)
-[23Jan2025 18:07:54.468] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create:compacting/rock_candys/blocks/chiseled_red_rock from create:recipes/compacting/rock_candys/blocks/chiseled_red_rock.json
+[23Jan2025 18:36:09.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Starting version check at https://api.modrinth.com/updates/create-encased/forge_updates.json
+[23Jan2025 18:36:09.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Found status: UP_TO_DATE Current: 1.20.1-1.6.2-fix1 Target: null
+[23Jan2025 18:36:09.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Ore-Excavation/main/version-check.json
+[23Jan2025 18:36:09.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Found status: BETA Current: 1.5.3 Target: 1.5.3
+[23Jan2025 18:36:09.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[23Jan2025 18:36:09.909] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/assets/.mcassetsroot' uses unexpected schema
+[23Jan2025 18:36:09.909] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/data/.mcassetsroot' uses unexpected schema
+[23Jan2025 18:36:10.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[23Jan2025 18:36:12.520] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[23Jan2025 18:36:12.524] [main/INFO] [APTweaks(Gamerules)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Gamerules ...
+[23Jan2025 18:36:12.535] [main/INFO] [APTweaks(Items)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Items ...
+[23Jan2025 18:36:12.536] [main/INFO] [APTweaks(Spawn)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Spawn ...
+[23Jan2025 18:36:12.549] [main/INFO] [APTweaks(Player)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Player ...
+[23Jan2025 18:36:12.607] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[23Jan2025 18:36:12.838] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmers_structures:is_quark_glimer_spawn as it is missing following references: quark:glimmering_weald (from FarmersStructures-1.0.3-1.20.jar)
+[23Jan2025 18:36:13.148] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:cooked_trilocararis as it is missing following references: alexscaves:cooked_trilocararis (from alexscavesdelight-1.0.24-1.20.1.jar)
+[23Jan2025 18:36:13.157] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_raw as it is missing following references: alexscaves:dinosaur_chop_raw (from alexscavesdelight-1.0.24-1.20.1.jar)
+[23Jan2025 18:36:13.180] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_cooked as it is missing following references: alexscaves:dinosaur_chop_cooked (from alexscavesdelight-1.0.24-1.20.1.jar)
+[23Jan2025 18:36:13.464] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create:compacting/rock_candys/blocks/chiseled_red_rock from create:recipes/compacting/rock_candys/blocks/chiseled_red_rock.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -334,164 +567,192 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23327!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	... 13 more
-[23Jan2025 18:07:55.150] [Worker-Main-4/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 18.850395 ms
-[23Jan2025 18:07:55.490] [main/INFO] [emi_loot/]: parsing loot tables
-[23Jan2025 18:07:55.636] [main/INFO] [emi_loot/]: finished parsing loot tables
-[23Jan2025 18:07:55.687] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
-[23Jan2025 18:07:55.690] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
-[23Jan2025 18:07:55.694] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:raboutan_sail_c_raft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:ramboutan_planks'
-[23Jan2025 18:07:55.787] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
-[23Jan2025 18:07:55.827] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.838] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.842] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
-[23Jan2025 18:07:55.865] [main/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
-[23Jan2025 18:07:55.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:chorus_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'unusualend:chorus_nest_planks'
-[23Jan2025 18:07:55.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:jaboticaba_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:jaboticaba_planks'
-[23Jan2025 18:07:55.881] [main/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (estrogen:splashing/thigh_high_washing) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:ruby_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
-[23Jan2025 18:07:55.884] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.886] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:copper_scaffolding_craft: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
-[23Jan2025 18:07:55.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_zinc_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:zinc_dust'
-[23Jan2025 18:07:55.933] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:black_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
-[23Jan2025 18:07:55.951] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.968] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:white_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
-[23Jan2025 18:07:55.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:mangrove_sail_craft_backport: com.google.gson.JsonSyntaxException: Unknown item 'wildbackport:mangrove_planks'
-[23Jan2025 18:07:55.971] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:freezing/powder_snow: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createsweetsandtreets:freezing'
-[23Jan2025 18:07:55.980] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:55.986] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:56.002] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
-[23Jan2025 18:07:56.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_copper_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:copper_dust'
-[23Jan2025 18:07:56.016] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[23Jan2025 18:07:56.016] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:filling/chocolate_bagutte: com.google.gson.JsonSyntaxException: Unknown item 'createsweetsandtreets:bagutte'
-[23Jan2025 18:07:56.033] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 50 recipes
-[23Jan2025 18:07:56.037] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[23Jan2025 18:07:56.091] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
-[23Jan2025 18:07:56.124] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
-[23Jan2025 18:07:56.224] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement createsweetsandtreets:brass_cookin: Expected item to be an item, was unknown string 'createsweetsandtreets:deleted_mod_element'
-[23Jan2025 18:07:56.261] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6101 advancements
-[23Jan2025 18:07:56.289] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[23Jan2025 18:07:56.304] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[23Jan2025 18:07:56.307] [main/INFO] [rechiseled/]: Loaded 66 chiseling recipes
-[23Jan2025 18:07:56.362] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 43.05613 ms
-[23Jan2025 18:07:56.378] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 16.309229 ms
-[23Jan2025 18:07:56.379] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.788761 ms
-[23Jan2025 18:07:56.382] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 1.772815 ms
-[23Jan2025 18:07:56.384] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 0.715284 ms
-[23Jan2025 18:07:56.395] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 8.782225 ms
-[23Jan2025 18:07:56.406] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 10.323829 ms
-[23Jan2025 18:07:56.423] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 17.424908 ms
-[23Jan2025 18:07:56.447] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 23.326002 ms
-[23Jan2025 18:07:56.458] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 10.95225 ms
-[23Jan2025 18:07:56.462] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.459971 ms
-[23Jan2025 18:07:56.998] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: farmers_structures:is_quark_glimer_spawn, quark:has_fallen_jungle
-[23Jan2025 18:07:57.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Jan2025 18:07:57.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Jan2025 18:07:57.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Jan2025 18:07:57.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Jan2025 18:07:57.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Jan2025 18:07:57.521] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Jan2025 18:07:57.594] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Jan2025 18:07:57.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Jan2025 18:07:57.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Jan2025 18:07:57.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Jan2025 18:07:57.612] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[23Jan2025 18:07:57.617] [Server thread/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-server.toml
-[23Jan2025 18:07:57.767] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
-[23Jan2025 18:07:57.767] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 38.764 sec to load ...
-[23Jan2025 18:07:57.769] [Server thread/INFO] [APTweaks(Items)/]: Max number of Items allowed per world: 128 / per type: 32
-[23Jan2025 18:07:57.769] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of items with a radius of 3 blocks.
-[23Jan2025 18:07:57.769] [Server thread/INFO] [APTweaks(Items)/]: Optimize all items except from deny list: [item.minecraft.diamond, item.minecraft.diamond_block]
-[23Jan2025 18:07:57.771] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of Experience Orbs with a radius of 4 blocks.
-[23Jan2025 18:07:57.771] [Server thread/ERROR] [APTweaks(Items)/]: WARNING: Clumps groups XP orbs together into a new single entity, which will conflict with the XP Orb feature of this mod!
-[23Jan2025 18:07:57.771] [Server thread/WARN] [APTweaks(Items)/]: Don't use both optimizations together! Clustering of Experience Orbs will be automatically disabled!
-[23Jan2025 18:07:57.771] [Server thread/INFO] [APTweaks(Spawn)/]: Clearing spawn rates calculation ...
-[23Jan2025 18:07:57.772] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 20 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.772] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 13 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.772] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 26 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.773] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.773] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.773] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 7 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.773] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 5 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
-[23Jan2025 18:07:57.774] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 2 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
-[23Jan2025 18:07:57.774] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 3 mobs with maxPerPlayer:16, maxPerWorld:64 and maxPerServer:320
-[23Jan2025 18:07:57.774] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for alexsmobs and 10 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
-[23Jan2025 18:07:57.774] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for alexsmobs and 19 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
-[23Jan2025 18:07:57.775] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for alexsmobs and 17 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
-[23Jan2025 18:07:57.775] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for tconstruct and 3 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
-[23Jan2025 18:07:57.775] [Server thread/INFO] [APTweaks(Spawn)/]: Added 126 player spawn rules, 126 world spawn rules and 0 special spawn rules.
-[23Jan2025 18:07:57.787] [Server thread/INFO] [APTweaks(Player)/]: Child player hurt damage will be reduced by 50% for []
-[23Jan2025 18:07:57.787] [Server thread/INFO] [APTweaks(Player)/]: Child player attack damage will be increased by 50% for []
-[23Jan2025 18:07:57.796] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[23Jan2025 18:07:57.796] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[23Jan2025 18:07:57.800] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[23Jan2025 18:07:57.841] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[23Jan2025 18:07:57.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Jan2025 18:07:58.122] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
-[23Jan2025 18:07:58.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Jan2025 18:08:00.075] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:00.076] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:00.077] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:00.077] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:00.217] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:00.715] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Jan2025 18:08:01.051] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2836 ms
-[23Jan2025 18:08:01.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.446s)! For help, type "help"
-[23Jan2025 18:08:01.131] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Jan2025 18:08:01.132] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
-[23Jan2025 18:08:01.132] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 42.129 sec to starting (∆: 3.365 secs)...
-[23Jan2025 18:08:01.134] [Server thread/INFO] [APTweaks(Gamerules)/]: Gamerules will be optimized with an 30 sec delay between updates.
-[23Jan2025 18:08:01.135] [Server thread/INFO] [APTweaks(Gamerules)/]: Random Tick Speed will be optimized between 1 and 3
-[23Jan2025 18:08:01.135] [Server thread/INFO] [APTweaks(Gamerules)/]: Max Entity Cramming will be optimized between 5 and 24
-[23Jan2025 18:08:01.136] [Server thread/INFO] [APTweaks(Gamerules)/]: Block explosions will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.137] [Server thread/INFO] [APTweaks(Gamerules)/]: Elytra movement check will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.137] [Server thread/INFO] [APTweaks(Gamerules)/]: Insomnia (phantoms spawn) will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.138] [Server thread/INFO] [APTweaks(Gamerules)/]: Mob explosions will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.138] [Server thread/INFO] [APTweaks(Gamerules)/]: Patrol spawning will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.139] [Server thread/INFO] [APTweaks(Gamerules)/]: Raids will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.139] [Server thread/INFO] [APTweaks(Gamerules)/]: Trader spawning will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.140] [Server thread/INFO] [APTweaks(Gamerules)/]: TNT explosions will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.140] [Server thread/INFO] [APTweaks(Gamerules)/]: Vines spread will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.141] [Server thread/INFO] [APTweaks(Gamerules)/]: Warden spawning will be automatically disabled during very high server load!
-[23Jan2025 18:08:01.141] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn allow list: []
-[23Jan2025 18:08:01.142] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn deny list: []
-[23Jan2025 18:08:01.142] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Ignore dimension list: [minecraft:the_end]
-[23Jan2025 18:08:01.143] [Server thread/INFO] [APTweaks(Spawn)/]: If you want to use a more aggressive spawn optimization, please set 'spawnAggressiveMode' to 'true'
-[23Jan2025 18:08:01.143] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable limiter and block randomly every 16 mob from spawning ...
-[23Jan2025 18:08:01.144] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 32 per player ...
-[23Jan2025 18:08:01.144] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 128 per world ...
-[23Jan2025 18:08:01.145] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 512 per server ...
-[23Jan2025 18:08:01.145] [Server thread/WARN] [APTweaks(Spawn)/]: 🛈 There are known issue with the Create mod! For this reasons all optimizations for related Create entities and/or items are disabled!
-[23Jan2025 18:08:01.147] [Server thread/INFO] [APTweaks(Player)/]: Player will be protected during login for max. of 90 secs.
-[23Jan2025 18:08:01.147] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
-[23Jan2025 18:08:01.154] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 42.151 sec to be available and ready to play (∆: 0.022 secs) ...
-[23Jan2025 18:08:01.156] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[23Jan2025 18:08:01.158] [Server thread/WARN] [ModernFix/]: Dedicated server took 42.174 seconds to load
-[23Jan2025 18:08:02.337] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 26.19742202758789)
-[23Jan2025 18:08:03.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to LOW (avg. 15.236025439999999)
-[23Jan2025 18:08:03.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.1350083)
-[23Jan2025 18:08:03.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.06576983)
-[23Jan2025 18:08:17.109] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.19742202758789) to VERY_LOW (avg. 0.41411128640174866)
-[23Jan2025 18:09:29.962] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[23Jan2025 18:09:30.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:44391] logged in with entity id 162 at (283.5239401276075, 77.0, 655.1038514320161)
-[23Jan2025 18:09:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
-[23Jan2025 18:09:30.573] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/162, l='ServerLevel[world]', x=283.52, y=77.00, z=655.10] logged in and will be protected for 90 secs.
-[23Jan2025 18:09:30.576] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
-[23Jan2025 18:09:33.204] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.4791678488254547) to LOW (avg. 27.838083267211914)
-[23Jan2025 18:09:39.609] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.838083267211914) to VERY_LOW (avg. 13.222311973571777)
-[23Jan2025 18:09:53.859] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 23 secs.
-[23Jan2025 18:09:53.860] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
-[23Jan2025 18:10:00.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
-[23Jan2025 18:10:00.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
-[23Jan2025 18:10:02.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.434967041015625) to NORMAL (avg. 40.93513870239258)
-[23Jan2025 18:10:17.110] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.93513870239258) to VERY_LOW (avg. 0.49533987045288086)
-[23Jan2025 18:14:53.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:40517] logged in with entity id 591 at (283.5239401276075, 77.0, 655.1038514320161)
-[23Jan2025 18:14:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
-[23Jan2025 18:14:53.794] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/591, l='ServerLevel[world]', x=283.52, y=77.00, z=655.10] logged in and will be protected for 90 secs.
-[23Jan2025 18:14:53.795] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
-[23Jan2025 18:15:15.709] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 21 secs.
-[23Jan2025 18:15:15.709] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[23Jan2025 18:36:14.189] [Worker-Main-4/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 17.888683 ms
+[23Jan2025 18:36:14.730] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[23Jan2025 18:36:14.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+[23Jan2025 18:36:14.742] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.835] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:raboutan_sail_c_raft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:ramboutan_planks'
+[23Jan2025 18:36:14.840] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[23Jan2025 18:36:14.881] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.891] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.896] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+[23Jan2025 18:36:14.913] [main/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
+[23Jan2025 18:36:14.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:chorus_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'unusualend:chorus_nest_planks'
+[23Jan2025 18:36:14.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:jaboticaba_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:jaboticaba_planks'
+[23Jan2025 18:36:14.931] [main/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (estrogen:splashing/thigh_high_washing) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.933] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:ruby_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[23Jan2025 18:36:14.934] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.935] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:14.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:copper_scaffolding_craft: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[23Jan2025 18:36:14.973] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_zinc_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:zinc_dust'
+[23Jan2025 18:36:14.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:black_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[23Jan2025 18:36:15.009] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:15.028] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:white_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[23Jan2025 18:36:15.031] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:mangrove_sail_craft_backport: com.google.gson.JsonSyntaxException: Unknown item 'wildbackport:mangrove_planks'
+[23Jan2025 18:36:15.032] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:freezing/powder_snow: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createsweetsandtreets:freezing'
+[23Jan2025 18:36:15.043] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:15.051] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:15.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[23Jan2025 18:36:15.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_copper_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:copper_dust'
+[23Jan2025 18:36:15.085] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[23Jan2025 18:36:15.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:filling/chocolate_bagutte: com.google.gson.JsonSyntaxException: Unknown item 'createsweetsandtreets:bagutte'
+[23Jan2025 18:36:15.103] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 50 recipes
+[23Jan2025 18:36:15.106] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[23Jan2025 18:36:15.161] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[23Jan2025 18:36:15.194] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[23Jan2025 18:36:15.302] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement createsweetsandtreets:brass_cookin: Expected item to be an item, was unknown string 'createsweetsandtreets:deleted_mod_element'
+[23Jan2025 18:36:15.340] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6101 advancements
+[23Jan2025 18:36:15.366] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[23Jan2025 18:36:15.378] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Jan2025 18:36:15.414] [main/INFO] [REI/]: [REI] ========================================
+[23Jan2025 18:36:15.415] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[23Jan2025 18:36:15.416] [main/INFO] [REI/]: [REI] Plugins (2):
+[23Jan2025 18:36:15.416] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[23Jan2025 18:36:15.416] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23Jan2025 18:36:15.416] [main/INFO] [REI/]: [REI] ========================================
+[23Jan2025 18:36:15.432] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23Jan2025 18:36:15.432] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[23Jan2025 18:36:15.433] [main/INFO] [REI/]: [REI] Plugins (2):
+[23Jan2025 18:36:15.433] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[23Jan2025 18:36:15.433] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23Jan2025 18:36:15.433] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23Jan2025 18:36:15.439] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 1.835 ms, totaling 35.50 ms.
+[23Jan2025 18:36:15.441] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 747.9 μs, totaling 6.343 ms.
+[23Jan2025 18:36:15.446] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23Jan2025 18:36:15.446] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[23Jan2025 18:36:15.447] [main/INFO] [REI/]: [REI] Plugins (2):
+[23Jan2025 18:36:15.447] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[23Jan2025 18:36:15.447] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23Jan2025 18:36:15.447] [main/INFO] [REI/]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23Jan2025 18:36:15.467] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23Jan2025 18:36:15.467] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[23Jan2025 18:36:15.468] [main/INFO] [REI/]: [REI] Plugins (2):
+[23Jan2025 18:36:15.468] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[23Jan2025 18:36:15.468] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23Jan2025 18:36:15.468] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23Jan2025 18:36:15.479] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 3.286 ms, totaling 25.58 ms.
+[23Jan2025 18:36:15.481] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 783.7 μs, totaling 6.425 ms.
+[23Jan2025 18:36:15.481] [main/INFO] [rechiseled/]: Loaded 66 chiseling recipes
+[23Jan2025 18:36:15.530] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 39.316517 ms
+[23Jan2025 18:36:15.543] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 13.289999 ms
+[23Jan2025 18:36:15.544] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.534817 ms
+[23Jan2025 18:36:15.545] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 1.586247 ms
+[23Jan2025 18:36:15.547] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 0.783461 ms
+[23Jan2025 18:36:15.553] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 4.108851 ms
+[23Jan2025 18:36:15.563] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 9.176111 ms
+[23Jan2025 18:36:15.577] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 14.187072 ms
+[23Jan2025 18:36:15.593] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 15.790942 ms
+[23Jan2025 18:36:15.604] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 10.872603 ms
+[23Jan2025 18:36:15.608] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.833157 ms
+[23Jan2025 18:36:16.105] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: farmers_structures:is_quark_glimer_spawn, quark:has_fallen_jungle
+[23Jan2025 18:36:16.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Jan2025 18:36:16.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jan2025 18:36:16.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jan2025 18:36:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jan2025 18:36:16.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jan2025 18:36:16.497] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jan2025 18:36:16.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jan2025 18:36:16.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jan2025 18:36:16.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jan2025 18:36:16.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jan2025 18:36:16.586] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[23Jan2025 18:36:16.590] [Server thread/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-server.toml
+[23Jan2025 18:36:16.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
+[23Jan2025 18:36:16.713] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 37.98 sec to load ...
+[23Jan2025 18:36:16.715] [Server thread/INFO] [APTweaks(Items)/]: Max number of Items allowed per world: 128 / per type: 32
+[23Jan2025 18:36:16.715] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of items with a radius of 3 blocks.
+[23Jan2025 18:36:16.715] [Server thread/INFO] [APTweaks(Items)/]: Optimize all items except from deny list: [item.minecraft.diamond, item.minecraft.diamond_block]
+[23Jan2025 18:36:16.717] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of Experience Orbs with a radius of 4 blocks.
+[23Jan2025 18:36:16.717] [Server thread/ERROR] [APTweaks(Items)/]: WARNING: Clumps groups XP orbs together into a new single entity, which will conflict with the XP Orb feature of this mod!
+[23Jan2025 18:36:16.718] [Server thread/WARN] [APTweaks(Items)/]: Don't use both optimizations together! Clustering of Experience Orbs will be automatically disabled!
+[23Jan2025 18:36:16.719] [Server thread/INFO] [APTweaks(Spawn)/]: Clearing spawn rates calculation ...
+[23Jan2025 18:36:16.719] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 20 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.720] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 13 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.720] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 26 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.720] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.721] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.721] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 7 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.722] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 5 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[23Jan2025 18:36:16.722] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 2 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
+[23Jan2025 18:36:16.723] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 3 mobs with maxPerPlayer:16, maxPerWorld:64 and maxPerServer:320
+[23Jan2025 18:36:16.723] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for alexsmobs and 10 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[23Jan2025 18:36:16.724] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for alexsmobs and 19 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[23Jan2025 18:36:16.724] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for alexsmobs and 17 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[23Jan2025 18:36:16.725] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for tconstruct and 3 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
+[23Jan2025 18:36:16.725] [Server thread/INFO] [APTweaks(Spawn)/]: Added 126 player spawn rules, 126 world spawn rules and 0 special spawn rules.
+[23Jan2025 18:36:16.740] [Server thread/INFO] [APTweaks(Player)/]: Child player hurt damage will be reduced by 50% for []
+[23Jan2025 18:36:16.741] [Server thread/INFO] [APTweaks(Player)/]: Child player attack damage will be increased by 50% for []
+[23Jan2025 18:36:16.751] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23Jan2025 18:36:16.751] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[23Jan2025 18:36:16.787] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23Jan2025 18:36:16.788] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23Jan2025 18:36:16.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jan2025 18:36:17.079] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[23Jan2025 18:36:17.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jan2025 18:36:18.872] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 18:36:18.873] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 18:36:18.874] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 18:36:18.875] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 18:36:19.190] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 18:36:19.868] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2680 ms
+[23Jan2025 18:36:19.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.288s)! For help, type "help"
+[23Jan2025 18:36:19.936] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jan2025 18:36:19.937] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
+[23Jan2025 18:36:19.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 41.204 sec to starting (∆: 3.224 secs)...
+[23Jan2025 18:36:19.939] [Server thread/INFO] [APTweaks(Gamerules)/]: Gamerules will be optimized with an 30 sec delay between updates.
+[23Jan2025 18:36:19.940] [Server thread/INFO] [APTweaks(Gamerules)/]: Random Tick Speed will be optimized between 1 and 3
+[23Jan2025 18:36:19.940] [Server thread/INFO] [APTweaks(Gamerules)/]: Max Entity Cramming will be optimized between 5 and 24
+[23Jan2025 18:36:19.940] [Server thread/INFO] [APTweaks(Gamerules)/]: Block explosions will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.941] [Server thread/INFO] [APTweaks(Gamerules)/]: Elytra movement check will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.941] [Server thread/INFO] [APTweaks(Gamerules)/]: Insomnia (phantoms spawn) will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.941] [Server thread/INFO] [APTweaks(Gamerules)/]: Mob explosions will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.941] [Server thread/INFO] [APTweaks(Gamerules)/]: Patrol spawning will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.942] [Server thread/INFO] [APTweaks(Gamerules)/]: Raids will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.942] [Server thread/INFO] [APTweaks(Gamerules)/]: Trader spawning will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.942] [Server thread/INFO] [APTweaks(Gamerules)/]: TNT explosions will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.942] [Server thread/INFO] [APTweaks(Gamerules)/]: Vines spread will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.943] [Server thread/INFO] [APTweaks(Gamerules)/]: Warden spawning will be automatically disabled during very high server load!
+[23Jan2025 18:36:19.943] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn allow list: []
+[23Jan2025 18:36:19.943] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn deny list: []
+[23Jan2025 18:36:19.944] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Ignore dimension list: [minecraft:the_end]
+[23Jan2025 18:36:19.944] [Server thread/INFO] [APTweaks(Spawn)/]: If you want to use a more aggressive spawn optimization, please set 'spawnAggressiveMode' to 'true'
+[23Jan2025 18:36:19.944] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable limiter and block randomly every 16 mob from spawning ...
+[23Jan2025 18:36:19.944] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 32 per player ...
+[23Jan2025 18:36:19.945] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 128 per world ...
+[23Jan2025 18:36:19.945] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 512 per server ...
+[23Jan2025 18:36:19.946] [Server thread/WARN] [APTweaks(Spawn)/]: 🛈 There are known issue with the Create mod! For this reasons all optimizations for related Create entities and/or items are disabled!
+[23Jan2025 18:36:19.947] [Server thread/INFO] [APTweaks(Player)/]: Player will be protected during login for max. of 90 secs.
+[23Jan2025 18:36:19.947] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
+[23Jan2025 18:36:19.952] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 41.219 sec to be available and ready to play (∆: 0.015 secs) ...
+[23Jan2025 18:36:19.954] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[23Jan2025 18:36:19.955] [Server thread/WARN] [ModernFix/]: Dedicated server took 41.252 seconds to load
+[23Jan2025 18:36:20.957] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 20.70333480834961)
+[23Jan2025 18:36:22.209] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 11.01362171)
+[23Jan2025 18:36:22.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.12494867999999999)
+[23Jan2025 18:36:22.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.07170417999999999)
+[23Jan2025 18:36:35.957] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.70333480834961) to VERY_LOW (avg. 0.5972349047660828)
+[23Jan2025 18:39:15.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Jan2025 18:39:16.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:37217] logged in with entity id 159 at (288.0431534178015, 78.0, 655.2944083474734)
+[23Jan2025 18:39:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[23Jan2025 18:39:16.289] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/159, l='ServerLevel[world]', x=288.04, y=78.00, z=655.29] logged in and will be protected for 90 secs.
+[23Jan2025 18:39:16.290] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[23Jan2025 18:39:20.958] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.43302738666534424) to LOW (avg. 22.44227409362793)
+[23Jan2025 18:39:22.207] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 11.01362171) to LOW (avg. 21.46940112)
+[23Jan2025 18:39:28.458] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.44227409362793) to VERY_LOW (avg. 10.986513137817383)
+[23Jan2025 18:39:55.159] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 38 secs.
+[23Jan2025 18:39:55.159] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[23Jan2025 18:40:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:41:43.458] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.60886001586914) to LOW (avg. 21.69898223876953)
+[23Jan2025 18:41:58.457] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.69898223876953) to VERY_LOW (avg. 11.41832447052002)
+[23Jan2025 18:42:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:42:21.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:42:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:42:54.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Complex Curiosities]
+[23Jan2025 18:43:24.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:43:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:43:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:43:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:43:48.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
