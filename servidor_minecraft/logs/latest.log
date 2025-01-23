@@ -794,3 +794,25 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jan2025 18:53:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [23Jan2025 18:54:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [23Jan2025 18:54:26.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:58:19.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:58:35.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 18:58:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 18:59:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 19:01:18.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 19:01:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 19:01:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 19:02:10.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[23Jan2025 19:02:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 19:02:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 19:03:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 19:04:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Stopping the server]
+[23Jan2025 19:04:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jan2025 19:04:19.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jan2025 19:04:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jan2025 19:04:19.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jan2025 19:04:20.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jan2025 19:04:20.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jan2025 19:04:20.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jan2025 19:04:20.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 19:04:20.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jan2025 19:04:20.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

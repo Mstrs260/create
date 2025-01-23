@@ -3742,6 +3742,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-23 18:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-23 18:41:32 +0000"
@@ -3796,6 +3802,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-23 19:01:57 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/wood_support_from_planks_stonecutting": {
     "criteria": {
       "has_planks": "2025-01-23 18:41:32 +0000"
@@ -3838,6 +3850,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-23 18:41:32 +0000"
@@ -3868,6 +3892,30 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-01-23 19:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-23 18:41:32 +0000"
@@ -3877,6 +3925,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-23 18:41:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-01-23 18:59:05 +0000"
     },
     "done": true
   },
@@ -3910,6 +3970,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/remote_lens": {
     "criteria": {
       "has_item": "2025-01-23 18:42:54 +0000"
@@ -3937,6 +4003,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-23 18:44:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-01-23 18:56:48 +0000"
     },
     "done": true
   },
