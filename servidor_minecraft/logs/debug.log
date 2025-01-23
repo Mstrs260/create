@@ -20040,3 +20040,114 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jan2025 14:45:32.907] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@3d66f705 for service interface com.blamejared.clumps.platform.IPlatformHelper
 [23Jan2025 14:46:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [23Jan2025 14:46:49.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:48:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:48:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:49:13.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 14:49:13.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 14:49:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:49:22.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:49:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 24000]
+[23Jan2025 14:49:52.963] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/houses/taiga_windmill_1 is being run through DFU (hash 6ee20c37fc9040702c7196a301339fcec0489ead9e5581bd057adc4289b76b58), this will cause launch time delays
+[23Jan2025 14:49:53.057] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dynamicvillage:taiga/taiga_mech is being run through DFU (hash f195cbc1ca0bf22489b914eea8c06418d3211b0e6899defcd080acd001e642a0), this will cause launch time delays
+[23Jan2025 14:49:53.070] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dynamicvillage:taiga/taiga_miner is being run through DFU (hash 6d915c47b8b9841c20b0200b728bfea98f74fdfcb3bb07bb0839ed92e11567f3), this will cause launch time delays
+[23Jan2025 14:49:53.082] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dynamicvillage:taiga/taiga_train is being run through DFU (hash 4b9fb04e4fb2f9293df4af708df68f9c6594fd329307d829be14a7c81262f2dd), this will cause launch time delays
+[23Jan2025 14:49:53.091] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dynamicvillage:taiga/taiga_plumber is being run through DFU (hash dbeb11bbc4bd75a22d59167c08e5ab44d7b331505a5a4ca25870c5f63054a1fb), this will cause launch time delays
+[23Jan2025 14:49:53.159] [Worker-Main-2/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[23Jan2025 14:50:32.253] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[23Jan2025 14:50:32.253] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[23Jan2025 14:50:32.253] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[23Jan2025 14:50:32.253] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[23Jan2025 14:50:46.006] [Worker-Main-2/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[23Jan2025 14:50:46.006] [Worker-Main-2/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Jan2025 14:50:46.009] [Worker-Main-2/DEBUG] [mixin/]: Mixing AdvancementBehaviourAccessor from create_dragon_lib.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[23Jan2025 14:50:46.009] [Worker-Main-2/DEBUG] [mixin/]: create_dragon_lib.mixins.json:AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Jan2025 14:50:46.030] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[23Jan2025 14:50:46.123] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/start_castle is being run through DFU (hash 6f4590aebb6753de05226c0d12fb8db277493b3c90da83f6e18fd394b95a53d5), this will cause launch time delays
+[23Jan2025 14:50:46.282] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[23Jan2025 14:50:46.300] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[23Jan2025 14:50:46.367] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[23Jan2025 14:50:46.375] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[23Jan2025 14:50:46.441] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[23Jan2025 14:50:46.546] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[23Jan2025 14:50:46.549] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[23Jan2025 14:50:46.550] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[23Jan2025 14:50:46.554] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[23Jan2025 14:50:46.557] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[23Jan2025 14:50:46.560] [Worker-Main-4/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[23Jan2025 14:50:52.318] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[23Jan2025 14:50:52.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[23Jan2025 14:50:53.455] [Server thread/DEBUG] [mixin/]: Mixing create.RotationPropagatorMixin from createcasing.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[23Jan2025 14:50:55.207] [Worker-Main-3/DEBUG] [mixin/]: Mixing AccessorToolboxInventory from railways-common.mixins.json into com.simibubi.create.content.equipment.toolbox.ToolboxInventory
+[23Jan2025 14:50:56.356] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=25, z=-1226}
+[23Jan2025 14:50:56.415] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[23Jan2025 14:50:56.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[23Jan2025 14:50:56.685] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
+[23Jan2025 14:51:03.847] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[23Jan2025 14:51:04.009] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[23Jan2025 14:51:04.009] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[23Jan2025 14:51:04.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[23Jan2025 14:51:04.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[23Jan2025 14:51:04.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[23Jan2025 14:51:04.379] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[23Jan2025 14:51:04.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[23Jan2025 14:51:04.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[23Jan2025 14:51:04.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[23Jan2025 14:51:04.604] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-1198}
+[23Jan2025 14:51:04.604] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-1198}
+[23Jan2025 14:51:06.345] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4538, l='ServerLevel[world]', x=-395.50, y=70.00, z=1151.50]
+[23Jan2025 14:51:06.345] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4539, l='ServerLevel[world]', x=-395.50, y=73.00, z=1151.50]
+[23Jan2025 14:51:06.345] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4540, l='ServerLevel[world]', x=-395.50, y=70.00, z=1151.50]
+[23Jan2025 14:51:06.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4541, l='ServerLevel[world]', x=-395.50, y=73.00, z=1151.50]
+[23Jan2025 14:51:06.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4542, l='ServerLevel[world]', x=-388.50, y=71.00, z=1142.50]
+[23Jan2025 14:51:06.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4543, l='ServerLevel[world]', x=-388.50, y=74.00, z=1142.50]
+[23Jan2025 14:51:06.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4544, l='ServerLevel[world]', x=-388.50, y=71.00, z=1142.50]
+[23Jan2025 14:51:06.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4545, l='ServerLevel[world]', x=-388.50, y=74.00, z=1142.50]
+[23Jan2025 14:51:06.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4546, l='ServerLevel[world]', x=-399.50, y=71.00, z=1137.50]
+[23Jan2025 14:51:06.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4547, l='ServerLevel[world]', x=-399.50, y=74.00, z=1137.50]
+[23Jan2025 14:51:06.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4548, l='ServerLevel[world]', x=-399.50, y=71.00, z=1137.50]
+[23Jan2025 14:51:06.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/4549, l='ServerLevel[world]', x=-399.50, y=74.00, z=1137.50]
+[23Jan2025 14:51:06.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[23Jan2025 14:51:06.633] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[23Jan2025 14:51:07.744] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.20665514) to LOW (avg. 26.36967815)
+[23Jan2025 14:51:09.250] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[23Jan2025 14:51:09.594] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[23Jan2025 14:51:09.594] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[23Jan2025 14:51:09.738] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[23Jan2025 14:51:20.214] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
+[23Jan2025 14:51:37.917] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[23Jan2025 14:51:42.148] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[23Jan2025 14:51:42.149] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[23Jan2025 14:53:10.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:53:13.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[23Jan2025 14:53:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
+[23Jan2025 14:53:15.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[23Jan2025 14:53:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
+[23Jan2025 14:53:16.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:53:44.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:53:46.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:54:13.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 14:54:13.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 14:54:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Crops of the Wild]
+[23Jan2025 14:55:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Suit Up]
+[23Jan2025 14:55:40.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:55:58.993] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.150910377502441) to LOW (avg. 21.254968643188477)
+[23Jan2025 14:55:59.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:56:06.493] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.254968643188477) to VERY_LOW (avg. 14.459403038024902)
+[23Jan2025 14:56:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:56:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Acquire Hardware]
+[23Jan2025 14:56:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:56:45.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:56:47.162] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[23Jan2025 14:56:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
+[23Jan2025 14:56:49.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[23Jan2025 14:56:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
+[23Jan2025 14:56:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:57:09.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to HARD with a 2.0 factor.
+[23Jan2025 14:57:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Hard]
+[23Jan2025 14:57:12.313] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[23Jan2025 14:57:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
+[23Jan2025 14:57:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:57:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[23Jan2025 14:58:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Isn't It Iron Pick]
+[23Jan2025 14:58:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[23Jan2025 14:58:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
