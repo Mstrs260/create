@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-01-23 14:46:48 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -371,6 +383,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
     "criteria": {
       "has_template": "2025-01-23 14:40:35 +0000"
@@ -407,9 +425,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-01-23 14:46:48 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -491,6 +521,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-23 14:48:14 +0000"
@@ -560,6 +596,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -692,6 +734,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-23 14:42:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -1013,6 +1061,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2025-01-23 14:48:14 +0000"
@@ -1055,6 +1109,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-01-23 14:40:35 +0000"
@@ -1070,6 +1130,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-23 14:48:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -1181,6 +1247,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-01-23 15:01:11 +0000"
@@ -1190,6 +1262,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -1373,9 +1451,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-23 14:54:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },
@@ -1706,6 +1796,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-23 14:42:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2025-01-23 15:05:55 +0000"
     },
     "done": true
   },

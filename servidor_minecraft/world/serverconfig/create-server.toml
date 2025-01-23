@@ -300,9 +300,9 @@
 			[kinetics.stressValues.v2.capacity]
 				copper_valve_handle = 8.0
 				hand_crank = 8.0
-				steam_engine = 1024.0
+				steam_engine = 2048.0
 				creative_motor = 16384.0
-				large_water_wheel = 128.0
+				large_water_wheel = 400.0
 				water_wheel = 32.0
 				windmill_bearing = 512.0
 
@@ -377,7 +377,7 @@
 	#.
 	#The total amount of stacks a vault can hold per block in size.
 	#Range: > 1
-	vaultCapacity = 20
+	vaultCapacity = 50
 	#.
 	#The amount of ticks a brass tunnel waits between distributions.
 	#Range: 1 ~ 10
