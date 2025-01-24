@@ -748,3 +748,45 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [24Jan2025 23:17:40.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.18515389000000002)
 [24Jan2025 23:17:40.025] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.07260128)
 [24Jan2025 23:17:53.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.96084213256836) to VERY_LOW (avg. 5.201447010040283)
+[24Jan2025 23:31:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tas ahi?
+[24Jan2025 23:31:30.725] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24Jan2025 23:31:30.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:49383] logged in with entity id 132 at (-839.9166467520856, 74.0, 1963.806089159459)
+[24Jan2025 23:31:31.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[24Jan2025 23:31:31.090] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/132, l='ServerLevel[world]', x=-839.92, y=74.00, z=1963.81] logged in and will be protected for 90 secs.
+[24Jan2025 23:31:31.092] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[24Jan2025 23:31:32.355] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.515608787536621) to NORMAL (avg. 44.84839630126953)
+[24Jan2025 23:31:38.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.84839630126953) to LOW (avg. 29.068218231201172)
+[24Jan2025 23:31:40.022] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.80314382) to LOW (avg. 27.23289507)
+[24Jan2025 23:31:46.572] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 15 secs.
+[24Jan2025 23:31:46.572] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[24Jan2025 23:31:53.772] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.068218231201172) to VERY_LOW (avg. 15.854912757873535)
+[24Jan2025 23:32:16.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 450 [Copper Ingot] to awaconqueso132]
+[24Jan2025 23:32:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 441 [Copper Ingot] to awaconqueso132]
+[24Jan2025 23:33:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 143 [Zinc Ingot] to awaconqueso132]
+[24Jan2025 23:33:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 23 [Gold Ingot] to awaconqueso132]
+[24Jan2025 23:33:26.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 23 [Gold Ingot] to awaconqueso132]
+[24Jan2025 23:33:47.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 392 [Redstone Dust] to awaconqueso132]
+[24Jan2025 23:33:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 288000]
+[24Jan2025 23:34:37.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:34:40.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:34:44.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:34:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:35:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:35:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:36:53.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.555538177490234) to LOW (avg. 24.402156829833984)
+[24Jan2025 23:37:08.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.402156829833984) to VERY_LOW (avg. 13.90037727355957)
+[24Jan2025 23:37:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:38:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:39:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:40:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:41:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:43:01.271] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.792341232299805) to LOW (avg. 21.629959106445312)
+[24Jan2025 23:43:16.270] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.629959106445312) to VERY_LOW (avg. 12.105664253234863)
+[24Jan2025 23:43:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:43:54.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:44:01.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:44:02.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:45:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:46:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:46:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:46:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
