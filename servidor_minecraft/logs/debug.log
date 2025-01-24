@@ -15534,3 +15534,14 @@ java.lang.Throwable: null
 [24Jan2025 23:46:09.437] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@74e7d7ba for service interface com.blamejared.clumps.platform.IPlatformHelper
 [24Jan2025 23:46:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [24Jan2025 23:46:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:47:37.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 23:47:37.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 23:52:35.738] [Server thread/DEBUG] [mixin/]: Mixing foundation.copycat.multistate.AirCurrentMixin from copycats-common.mixins.json into com.simibubi.create.content.kinetics.fan.AirCurrent
+[24Jan2025 23:52:37.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 23:52:37.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 23:53:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[24Jan2025 23:53:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:54:30.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[24Jan2025 23:54:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 23:54:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 23:56:05.282] [Server thread/DEBUG] [mixin/]: Mixing MixinConfigHelper from railways-common.mixins.json into com.simibubi.create.foundation.config.ui.ConfigHelper
