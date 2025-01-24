@@ -819,3 +819,118 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [24Jan2025 19:18:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [24Jan2025 19:18:27.231] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.61962890625) to VERY_LOW (avg. 17.251178741455078)
 [24Jan2025 19:18:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:18:57.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.027341842651367) to LOW (avg. 29.1325626373291)
+[24Jan2025 19:19:02.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> por si acaso
+[24Jan2025 19:19:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> no necesitamos el nether para tener lava infinita
+[24Jan2025 19:19:34.772] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.5499267578125) to NORMAL (avg. 40.62273025512695)
+[24Jan2025 19:19:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 19:19:49.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.62273025512695) to LOW (avg. 24.211711883544922)
+[24Jan2025 19:20:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:20:22.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ta goty la generacion de mundo
+[24Jan2025 19:21:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> mi ping anda bien culero
+[24Jan2025 19:21:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 19:21:26.968] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[24Jan2025 19:21:26.969] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[24Jan2025 19:21:26.969] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[24Jan2025 19:21:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:21:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 19:22:05.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[24Jan2025 19:22:05.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[24Jan2025 19:22:28.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MF_XPS[/127.233.6.79:44101] logged in with entity id 11136 at (6.5, 125.0, 7.5)
+[24Jan2025 19:22:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MF_XPS joined the game
+[24Jan2025 19:22:28.859] [Server thread/INFO] [APTweaks(Player)/]: Player MF_XPS ServerPlayer['MF_XPS'/11136, l='ServerLevel[world]', x=6.50, y=125.00, z=7.50] logged in and will be protected for 90 secs.
+[24Jan2025 19:22:28.860] [Server thread/INFO] [Jade/]: Syncing config to MF_XPS (503ea2ea-f1f4-35df-8e84-9e43e60e195d)
+[24Jan2025 19:22:29.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MF_XPS has made the advancement [Now We're Cookin With Gas!]
+[24Jan2025 19:22:30.531] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MF_XPS was successful validated after 1 secs.
+[24Jan2025 19:22:30.531] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MF_XPS!
+[24Jan2025 19:22:33.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:43677] logged in with entity id 11302 at (261.1384619720041, 138.0, 568.6999999880791)
+[24Jan2025 19:22:33.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[24Jan2025 19:22:33.908] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/11302, l='ServerLevel[world]', x=261.14, y=138.00, z=568.70] logged in and will be protected for 90 secs.
+[24Jan2025 19:22:33.913] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[24Jan2025 19:22:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:23:04.798] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.657825469970703) to NORMAL (avg. 43.21224594116211)
+[24Jan2025 19:23:05.986] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 32.8169417) to NORMAL (avg. 37.05362915)
+[24Jan2025 19:23:12.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.21224594116211) to LOW (avg. 35.00529861450195)
+[24Jan2025 19:23:16.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead has made the advancement [Monster Hunter]
+[24Jan2025 19:23:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nose pq pero el mc me va bien culero
+[24Jan2025 19:23:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] de ping xD
+[24Jan2025 19:23:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead was slain by Zombie Villager
+[24Jan2025 19:23:30.005] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 56 secs.
+[24Jan2025 19:23:30.005] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[24Jan2025 19:23:34.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[24Jan2025 19:23:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ya
+[24Jan2025 19:23:36.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> xd
+[24Jan2025 19:23:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> UN BABY
+[24Jan2025 19:23:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> XDD
+[24Jan2025 19:23:42.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.5495719909668) to VERY_LOW (avg. 19.444093704223633)
+[24Jan2025 19:23:42.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=123, z=-6}
+[24Jan2025 19:23:42.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=123, z=-7}
+[24Jan2025 19:23:44.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=122, z=-6}
+[24Jan2025 19:23:44.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> baby q?
+[24Jan2025 19:23:48.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> baby zombie pe
+[24Jan2025 19:23:57.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.444093704223633) to LOW (avg. 35.74192810058594)
+[24Jan2025 19:24:34.735] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.132606506347656) to NORMAL (avg. 41.84185791015625)
+[24Jan2025 19:24:42.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.84185791015625) to LOW (avg. 38.29518127441406)
+[24Jan2025 19:24:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[24Jan2025 19:24:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:24:57.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.29518127441406) to NORMAL (avg. 41.63570022583008)
+[24Jan2025 19:25:13.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> me encanta la generacion de mundo
+[24Jan2025 19:25:18.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> a
+[24Jan2025 19:25:19.731] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.5869255065918) to LOW (avg. 30.708951950073242)
+[24Jan2025 19:25:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[24Jan2025 19:25:36.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 19:25:42.256] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.34777069091797) to MEDIUM (avg. 46.281951904296875)
+[24Jan2025 19:25:50.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Applied effect Regeneration to awaconqueso132]
+[24Jan2025 19:25:51.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:25:57.231] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.281951904296875) to LOW (avg. 37.393314361572266)
+[24Jan2025 19:26:06.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.23279277) to MEDIUM (avg. 44.0980441)
+[24Jan2025 19:26:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> pasas cords?
+[24Jan2025 19:26:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> para?
+[24Jan2025 19:26:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> no se
+[24Jan2025 19:26:39.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ando explorando todavia
+[24Jan2025 19:26:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> por cierto
+[24Jan2025 19:26:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> puedes ponerte hasta 16 chunks
+[24Jan2025 19:27:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ese es el maximo que te renderizara
+[24Jan2025 19:27:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> a
+[24Jan2025 19:27:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> mas de eso no te mostrara
+[24Jan2025 19:27:27.253] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.76012420654297) to NORMAL (avg. 41.3664665222168)
+[24Jan2025 19:27:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead has made the advancement [Diamonds!]
+[24Jan2025 19:27:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead has made the advancement [Acquire Hardware]
+[24Jan2025 19:27:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Cobweb Entanglement]
+[24Jan2025 19:27:34.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.3664665222168) to LOW (avg. 33.889278411865234)
+[24Jan2025 19:27:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[24Jan2025 19:27:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> q suerte
+[24Jan2025 19:27:49.754] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.889278411865234) to NORMAL (avg. 44.35707092285156)
+[24Jan2025 19:27:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> gg
+[24Jan2025 19:27:53.768] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[24Jan2025 19:27:53.768] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[24Jan2025 19:27:53.769] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[24Jan2025 19:27:53.769] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[24Jan2025 19:27:57.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.35707092285156) to LOW (avg. 34.012516021728516)
+[24Jan2025 19:28:06.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-185, y=92, z=743}
+[24Jan2025 19:28:08.141] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=37, z=-882}
+[24Jan2025 19:28:08.752] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-390, y=31, z=-789}
+[24Jan2025 19:28:08.752] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-785}
+[24Jan2025 19:28:09.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=zo,turn=false,waterlogged=false] but failed at location BlockPos{x=-185, y=93, z=731}
+[24Jan2025 19:28:10.379] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=31, z=-787}
+[24Jan2025 19:28:12.231] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.012516021728516) to NORMAL (avg. 40.18938446044922)
+[24Jan2025 19:28:13.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[24Jan2025 19:28:18.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> encontre una isla flotante xdd
+[24Jan2025 19:28:19.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[24Jan2025 19:28:19.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[24Jan2025 19:28:19.502] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 19:28:24.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-209, y=96, z=714}
+[24Jan2025 19:28:24.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-171, y=100, z=698}
+[24Jan2025 19:28:24.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-160, y=103, z=698}
+[24Jan2025 19:28:27.230] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.18938446044922) to LOW (avg. 25.548362731933594)
+[24Jan2025 19:28:32.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mi inter ta bien pesadongo
+[24Jan2025 19:28:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] la isla flotante es algo del tinker
+[24Jan2025 19:28:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd}
+[24Jan2025 19:28:52.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:48877] logged in with entity id 29860 at (-39.051647440283645, 62.0, 955.6556751910824)
+[24Jan2025 19:28:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[24Jan2025 19:28:52.523] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/29860, l='ServerLevel[world]', x=-39.05, y=62.00, z=955.66] logged in and will be protected for 90 secs.
+[24Jan2025 19:28:52.524] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[24Jan2025 19:29:00.031] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 7 secs.
+[24Jan2025 19:29:00.031] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[24Jan2025 19:29:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[24Jan2025 19:29:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ya
