@@ -910,3 +910,90 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [25Jan2025 02:43:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> 1 quedarte en mi aldea
 [25Jan2025 02:43:56.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> o quedarte en la de zoro
 [25Jan2025 02:44:06.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> o en la que no esta "reclamada"
+[25Jan2025 02:44:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> soy al unico que no le va estable?
+[25Jan2025 02:45:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> a mi me va bien xdd
+[25Jan2025 02:45:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> osea si
+[25Jan2025 02:45:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> pero derrepente dan tirones
+[25Jan2025 02:45:16.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> no xdd
+[25Jan2025 02:45:18.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> a xd
+[25Jan2025 02:45:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> tienes optifine?
+[25Jan2025 02:45:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> no
+[25Jan2025 02:45:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> x2
+[25Jan2025 02:45:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ was shot by Skeleton
+[25Jan2025 02:45:49.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.301494598388672) to NORMAL (avg. 40.05708694458008)
+[25Jan2025 02:45:50.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> mmta mare
+[25Jan2025 02:45:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> tenia un cora
+[25Jan2025 02:46:04.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.05708694458008) to LOW (avg. 22.979921340942383)
+[25Jan2025 02:47:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> tengo un reloj cucu xdd
+[25Jan2025 02:47:27.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xdd
+[25Jan2025 02:49:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> np hay animales
+[25Jan2025 02:49:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> vente para aca mejor
+[25Jan2025 02:49:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> una vaca con su hija
+[25Jan2025 02:50:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> mata a la hija
+[25Jan2025 02:50:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> digo a la vaca
+[25Jan2025 02:50:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> fue lo primero que hice
+[25Jan2025 02:50:11.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> digo
+[25Jan2025 02:50:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> XDD
+[25Jan2025 02:50:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xdd
+[25Jan2025 02:51:43.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:44531] logged in with entity id 18662 at (-837.0941850485153, 75.0, 1931.050833990243)
+[25Jan2025 02:51:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[25Jan2025 02:51:43.809] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18420, l='ServerLevel[world]', x=-833.86, y=81.50, z=1965.01, removed=DISCARDED]
+[25Jan2025 02:51:43.810] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18417, l='ServerLevel[world]', x=-834.88, y=81.00, z=1966.63, removed=DISCARDED]
+[25Jan2025 02:51:43.810] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18419, l='ServerLevel[world]', x=-835.68, y=81.00, z=1967.88, removed=DISCARDED]
+[25Jan2025 02:51:43.819] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/18662, l='ServerLevel[world]', x=-837.09, y=75.00, z=1931.05] logged in and will be protected for 90 secs.
+[25Jan2025 02:51:43.820] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[25Jan2025 02:51:44.035] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18685, l='ServerLevel[world]', x=-824.42, y=76.43, z=1918.40, removed=DISCARDED]
+[25Jan2025 02:51:44.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18686, l='ServerLevel[world]', x=-823.39, y=76.44, z=1918.53, removed=DISCARDED]
+[25Jan2025 02:51:44.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18687, l='ServerLevel[world]', x=-822.41, y=76.62, z=1918.53, removed=DISCARDED]
+[25Jan2025 02:51:44.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18688, l='ServerLevel[world]', x=-821.48, y=76.51, z=1918.45, removed=DISCARDED]
+[25Jan2025 02:51:44.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18689, l='ServerLevel[world]', x=-826.40, y=76.55, z=1918.61, removed=DISCARDED]
+[25Jan2025 02:51:44.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18690, l='ServerLevel[world]', x=-825.59, y=76.40, z=1918.38, removed=DISCARDED]
+[25Jan2025 02:51:58.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> y este random?
+[25Jan2025 02:52:05.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> es el diablo
+[25Jan2025 02:52:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:52:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xdd
+[25Jan2025 02:52:13.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
+[25Jan2025 02:52:13.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[25Jan2025 02:52:16.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> se fue
+[25Jan2025 02:52:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> nos tuvo miedo
+[25Jan2025 02:52:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> si
+[25Jan2025 02:52:22.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> somos dios
+[25Jan2025 02:52:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ has made the advancement [Acquire Hardware]
+[25Jan2025 02:52:45.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> lejisimos weon
+[25Jan2025 02:52:52.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xd
+[25Jan2025 02:52:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xd
+[25Jan2025 02:52:58.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17224, l='ServerLevel[world]', x=-223.37, y=97.00, z=665.62] died, message: 'Unemployed suffocated in a wall'
+[25Jan2025 02:53:31.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:49847] logged in with entity id 20250 at (-837.0941850485153, 75.0, 1931.050833990243)
+[25Jan2025 02:53:31.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[25Jan2025 02:53:31.864] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/20250, l='ServerLevel[world]', x=-837.09, y=75.00, z=1931.05] logged in and will be protected for 90 secs.
+[25Jan2025 02:53:31.864] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[25Jan2025 02:53:32.037] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18417, l='ServerLevel[world]', x=-834.88, y=81.00, z=1966.63, removed=DISCARDED]
+[25Jan2025 02:53:32.037] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18419, l='ServerLevel[world]', x=-835.68, y=81.00, z=1967.88, removed=DISCARDED]
+[25Jan2025 02:53:32.037] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18420, l='ServerLevel[world]', x=-833.86, y=81.50, z=1965.01, removed=DISCARDED]
+[25Jan2025 02:53:32.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18685, l='ServerLevel[world]', x=-824.42, y=76.43, z=1918.40, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18686, l='ServerLevel[world]', x=-823.39, y=76.44, z=1918.53, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18687, l='ServerLevel[world]', x=-822.41, y=76.62, z=1918.53, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18688, l='ServerLevel[world]', x=-821.48, y=76.51, z=1918.45, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18689, l='ServerLevel[world]', x=-826.40, y=76.55, z=1918.61, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/18690, l='ServerLevel[world]', x=-825.59, y=76.40, z=1918.38, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19473, l='ServerLevel[world]', x=-820.41, y=76.47, z=1918.56, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19475, l='ServerLevel[world]', x=-823.61, y=76.52, z=1918.45, removed=DISCARDED]
+[25Jan2025 02:53:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19476, l='ServerLevel[world]', x=-822.60, y=76.55, z=1918.47, removed=DISCARDED]
+[25Jan2025 02:53:32.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19477, l='ServerLevel[world]', x=-821.43, y=76.50, z=1918.62, removed=DISCARDED]
+[25Jan2025 02:53:32.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19478, l='ServerLevel[world]', x=-826.52, y=76.40, z=1918.58, removed=DISCARDED]
+[25Jan2025 02:53:32.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19479, l='ServerLevel[world]', x=-825.56, y=76.60, z=1918.47, removed=DISCARDED]
+[25Jan2025 02:53:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> volvio
+[25Jan2025 02:53:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> round 2
+[25Jan2025 02:53:42.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> que lo que pipol
+[25Jan2025 02:53:43.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> jajaja
+[25Jan2025 02:53:47.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> hablo
+[25Jan2025 02:53:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> no es ia
+[25Jan2025 02:53:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:53:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> zi
+[25Jan2025 02:54:01.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
+[25Jan2025 02:54:01.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[25Jan2025 02:54:07.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> ganado
+[25Jan2025 02:54:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> win
+[25Jan2025 02:54:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nomas q mi inter esta bien cule-
+[25Jan2025 02:54:11.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:54:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> intel de peru tiene
