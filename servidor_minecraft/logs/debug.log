@@ -18025,3 +18025,193 @@ java.lang.Throwable: null
 [25Jan2025 14:32:29.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=124, z=-5}
 [25Jan2025 14:32:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> ya hablamos de eso despues
 [25Jan2025 14:32:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> cy
+[25Jan2025 14:32:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> pero fue de pana
+[25Jan2025 14:32:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> te fekio
+[25Jan2025 14:32:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> noo
+[25Jan2025 14:32:41.708] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[25Jan2025 14:32:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pues
+[25Jan2025 14:32:48.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no parece eh
+[25Jan2025 14:32:49.848] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.629511189999995) to NORMAL (avg. 35.19059527)
+[25Jan2025 14:32:52.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aja
+[25Jan2025 14:32:52.992] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[25Jan2025 14:32:53.045] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/53085, l='ServerLevel[world]', x=-1004.13, y=61.00, z=355.13], dimensionLocationPath overworld
+[25Jan2025 14:32:53.045] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/53085, l='ServerLevel[world]', x=-1004.13, y=61.00, z=355.13] in list []
+[25Jan2025 14:32:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> o capaz es q le de pena admitir
+[25Jan2025 14:33:02.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Jan2025 14:33:04.945] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[25Jan2025 14:33:05.511] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.321224212646484) to MEDIUM (avg. 47.85791015625)
+[25Jan2025 14:33:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si, debe ser eso
+[25Jan2025 14:33:12.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.85791015625) to NORMAL (avg. 42.05685806274414)
+[25Jan2025 14:33:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> o capas sea que somos hombres
+[25Jan2025 14:33:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> y fin.
+[25Jan2025 14:33:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ANOMAM-
+[25Jan2025 14:33:27.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.05685806274414) to LOW (avg. 36.63486099243164)
+[25Jan2025 14:33:29.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> JAJAJAJ
+[25Jan2025 14:33:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> me secuestro algo
+[25Jan2025 14:33:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> yo pensaba que eras mujer we JASJASDUJAs
+[25Jan2025 14:33:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:33:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> que
+[25Jan2025 14:33:40.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:33:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> MEN
+[25Jan2025 14:33:47.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> JASDUAJSDJAUJD
+[25Jan2025 14:33:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> SH ACTUA COMO HOMBRE XDD
+[25Jan2025 14:33:53.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> EEH
+[25Jan2025 14:33:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanahoria_24 has made the advancement [Stone Age]
+[25Jan2025 14:33:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> bue
+[25Jan2025 14:34:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> me quede sin diamantes gratis
+[25Jan2025 14:34:09.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> que pendejo
+[25Jan2025 14:34:26.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dynamicvillage:snowy/snowy_train
+[25Jan2025 14:34:26.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dynamicvillage:snowy/snowy_plumber
+[25Jan2025 14:34:26.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dynamicvillage:snowy/snowy_mech
+[25Jan2025 14:34:26.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dynamicvillage:snowy/snowy_miner
+[25Jan2025 14:34:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanahoria_24 has made the advancement [Getting an Upgrade]
+[25Jan2025 14:34:27.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> aa vro
+[25Jan2025 14:34:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:34:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> encontre tu bioma
+[25Jan2025 14:34:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:34:33.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> igualito a peru
+[25Jan2025 14:34:38.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aa vro
+[25Jan2025 14:34:42.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> encontre a un presidente
+[25Jan2025 14:34:44.161] [Server thread/DEBUG] [mixin/]: Mixing MixinBezierConnection from railways-common.mixins.json into com.simibubi.create.content.trains.track.BezierConnection
+[25Jan2025 14:34:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> igual al de tu pais
+[25Jan2025 14:34:47.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> matalo
+[25Jan2025 14:34:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> vou
+[25Jan2025 14:35:04.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.74592208862305) to NORMAL (avg. 41.95550537109375)
+[25Jan2025 14:35:06.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> awaconqueso132
+[25Jan2025 14:35:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> q
+[25Jan2025 14:35:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> awa con cum
+[25Jan2025 14:35:12.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.95550537109375) to LOW (avg. 34.144588470458984)
+[25Jan2025 14:35:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> me encontre otra aldea de camino a la aldea cheesburguer
+[25Jan2025 14:35:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> es la mango bajito?
+[25Jan2025 14:35:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> es de taiga
+[25Jan2025 14:35:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pero no esta en taiga
+[25Jan2025 14:35:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> hmm
+[25Jan2025 14:35:43.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> creo q ya se cual es
+[25Jan2025 14:35:44.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> esta en una playa de grava
+[25Jan2025 14:35:47.885] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/53085, l='ServerLevel[world]', x=-1004.13, y=61.00, z=355.13, removed=UNLOADED_TO_CHUNK]
+[25Jan2025 14:35:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> el dead se la habia encontrado
+[25Jan2025 14:35:54.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> la saqueo y si hay guerra mejopr
+[25Jan2025 14:35:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> pero la abandono pa estar cerca
+[25Jan2025 14:36:09.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> encontre el waystone
+[25Jan2025 14:36:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> y la aldea se llama "El pingo"
+[25Jan2025 14:36:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> Xd
+[25Jan2025 14:36:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> el mejor momento de lso servers es cuando no ahi owner
+[25Jan2025 14:36:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> o admin
+[25Jan2025 14:36:26.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> eso
+[25Jan2025 14:36:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> yo soy el owner
+[25Jan2025 14:36:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XD
+[25Jan2025 14:36:30.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> tremendo
+[25Jan2025 14:36:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si pero es distinto
+[25Jan2025 14:36:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> no actuas como owner-
+[25Jan2025 14:36:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> como yo
+[25Jan2025 14:36:39.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> cuando creo servers
+[25Jan2025 14:36:40.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> los owners siempre joden
+[25Jan2025 14:36:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:36:42.389] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.27177429199219) to NORMAL (avg. 40.55802536010742)
+[25Jan2025 14:36:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> tu no
+[25Jan2025 14:36:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:36:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> asi que good
+[25Jan2025 14:36:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> con tal de que no me exploten el srv
+[25Jan2025 14:36:56.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ni dañen la paz
+[25Jan2025 14:36:57.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.55802536010742) to LOW (avg. 28.79399299621582)
+[25Jan2025 14:36:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> eeeh
+[25Jan2025 14:36:58.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ta bine
+[25Jan2025 14:36:59.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XD
+[25Jan2025 14:37:00.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> EEEH
+[25Jan2025 14:37:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> -0/10 no hay cristales conectados
+[25Jan2025 14:37:11.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 14:37:11.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 14:37:12.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> con el create los puedes conectar
+[25Jan2025 14:37:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> sh no que era sin reglas?
+[25Jan2025 14:37:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> :U
+[25Jan2025 14:37:18.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:37:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pues
+[25Jan2025 14:37:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no hay reglas
+[25Jan2025 14:37:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:37:28.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:37:33.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:37:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> que hay de mentira en eso?=
+[25Jan2025 14:37:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> el echo de que manteganmos la paz ya es regla
+[25Jan2025 14:37:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> eeh
+[25Jan2025 14:37:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> o si quieren pelear
+[25Jan2025 14:37:49.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> eso es una regla moral
+[25Jan2025 14:37:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> a que si
+[25Jan2025 14:37:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> eeeh
+[25Jan2025 14:37:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> moral?
+[25Jan2025 14:37:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ps q los 2 usuarios esten de acuerdo
+[25Jan2025 14:37:54.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> podemos hacer guerras
+[25Jan2025 14:37:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> porque hay armas
+[25Jan2025 14:38:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> asi que hagamos guerras
+[25Jan2025 14:38:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> cy
+[25Jan2025 14:38:10.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> con tal de q los usarios implicados esten deacuerdo
+[25Jan2025 14:38:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> el problema: no ahi gente
+[25Jan2025 14:38:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ps ta bien
+[25Jan2025 14:38:15.278] [Worker-Main-12/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[25Jan2025 14:38:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> nooo
+[25Jan2025 14:38:19.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> too bad
+[25Jan2025 14:38:20.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> eso tambiene s regla sh
+[25Jan2025 14:38:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> too bad
+[25Jan2025 14:38:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> 0/10
+[25Jan2025 14:38:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanahoria_24 has made the advancement [Monster Hunter]
+[25Jan2025 14:38:29.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no no
+[25Jan2025 14:38:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> no me quiero explotar el pc
+[25Jan2025 14:38:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> :V
+[25Jan2025 14:38:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> -0/10
+[25Jan2025 14:38:34.905] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.644372940063477) to NORMAL (avg. 41.382667541503906)
+[25Jan2025 14:38:35.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> no nononon
+[25Jan2025 14:38:40.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> borra EL JUEGO
+[25Jan2025 14:38:42.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.382667541503906) to LOW (avg. 31.847566604614258)
+[25Jan2025 14:38:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> no es como si tuviera 100gb de ram
+[25Jan2025 14:38:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> xD
+[25Jan2025 14:38:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> noononono
+[25Jan2025 14:38:49.910] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.847566604614258) to MEDIUM (avg. 46.0347900390625)
+[25Jan2025 14:38:49.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> borra la cuetna
+[25Jan2025 14:38:51.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> con 4 sobrta
+[25Jan2025 14:38:57.378] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.0347900390625) to LOW (avg. 36.559593200683594)
+[25Jan2025 14:38:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ejem
+[25Jan2025 14:39:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> NO NO
+[25Jan2025 14:39:03.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> no cuando eres el que hostea XD
+[25Jan2025 14:39:06.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> EL MEJOR ALDEANO
+[25Jan2025 14:39:08.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> VENDE ANDESITA
+[25Jan2025 14:39:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> como me lo llevo
+[25Jan2025 14:39:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> con bote
+[25Jan2025 14:39:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ya tengo de esos aca
+[25Jan2025 14:39:22.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> WOO
+[25Jan2025 14:39:41.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> el que encontro esta aldea es tonto
+[25Jan2025 14:39:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no saqueo lo del create
+[25Jan2025 14:39:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XD
+[25Jan2025 14:39:58.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> hay mochilas no?
+[25Jan2025 14:40:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> si
+[25Jan2025 14:40:03.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> gracias
+[25Jan2025 14:40:11.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aver
+[25Jan2025 14:40:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> entonces este server no es full anarquico?
+[25Jan2025 14:40:21.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si es
+[25Jan2025 14:40:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> creo
+[25Jan2025 14:40:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> vro
+[25Jan2025 14:40:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> que mantengamos la paz
+[25Jan2025 14:40:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> NO ES ANARQUICO
+[25Jan2025 14:40:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pero
+[25Jan2025 14:40:40.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> cual es el castigo?
+[25Jan2025 14:40:45.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> ninguno
+[25Jan2025 14:40:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si no mantenemos paz
+[25Jan2025 14:40:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> creo
+[25Jan2025 14:40:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> tu que vro, le pregunto al owner
+[25Jan2025 14:41:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aaah
+[25Jan2025 14:41:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> se me olvida que es owner
+[25Jan2025 14:41:11.665] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['zanahoria_24'/51695, l='ServerLevel[world]', x=216.52, y=115.00, z=-299.73], dimensionLocationPath overworld
+[25Jan2025 14:41:11.666] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['zanahoria_24'/51695, l='ServerLevel[world]', x=216.52, y=115.00, z=-299.73] in list []
+[25Jan2025 14:41:31.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> when
+[25Jan2025 14:41:33.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no responde
+[25Jan2025 14:41:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> soy awa con cum
+[25Jan2025 14:41:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> tu ducha
+[25Jan2025 14:42:02.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> y tambien al tuya
+[25Jan2025 14:42:05.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> no
+[25Jan2025 14:42:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> no
+[25Jan2025 14:42:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> yo deje las pajas
+[25Jan2025 14:42:11.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 14:42:11.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 14:42:12.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aja
+[25Jan2025 14:42:22.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> volvi
+[25Jan2025 14:42:28.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> awa con cum
+[25Jan2025 14:42:36.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> cual es el castigo si hacemos gueras
+[25Jan2025 14:42:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> que nos cume a todos
