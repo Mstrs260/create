@@ -5506,73 +5506,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 14:12:09 +0000"
+      "log_spam_fixer": "2025-01-25 14:22:09 +0000"
     },
     "done": false
   },
@@ -5651,7 +5651,9 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "large_plate": "2025-01-25 14:06:21 +0000",
-      "pick_head": "2025-01-25 13:24:53 +0000"
+      "tough_handle": "2025-01-25 14:15:29 +0000",
+      "pick_head": "2025-01-25 13:24:53 +0000",
+      "hammer_head": "2025-01-25 14:17:25 +0000"
     },
     "done": false
   },
@@ -5676,6 +5678,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-25 13:00:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2025-01-25 14:19:53 +0000"
     },
     "done": true
   },
