@@ -4454,7 +4454,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "whitestone": "2025-01-24 20:24:19 +0000"
+      "whitestone": "2025-01-24 20:24:19 +0000",
+      "iron": "2025-01-25 00:43:05 +0000"
     },
     "done": false
   },
@@ -4760,7 +4761,11 @@
   },
   "tconstruct:smeltery/melter": {
     "criteria": {
-      "seared_heater": "2025-01-25 00:26:37 +0000"
+      "seared_fuel_tank": "2025-01-25 00:44:19 +0000",
+      "seared_heater": "2025-01-25 00:26:37 +0000",
+      "seared_ingot_gauge": "2025-01-25 00:45:26 +0000",
+      "seared_faucet": "2025-01-25 00:48:40 +0000",
+      "seared_melter": "2025-01-25 00:45:48 +0000"
     },
     "done": false
   },
@@ -4797,6 +4802,18 @@
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
       "has_chest": "2025-01-25 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
     },
     "done": true
   },
@@ -4863,6 +4880,12 @@
   "create:recipes/misc/crafting/kinetics/framed_glass_door": {
     "criteria": {
       "has_item": "2025-01-25 00:00:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
     },
     "done": true
   },
@@ -4938,6 +4961,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-01-25 00:47:32 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/part_builder": {
     "criteria": {
       "has_item": "2025-01-25 00:33:18 +0000"
@@ -4953,6 +4982,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-24 23:33:47 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-01-25 00:49:09 +0000"
     },
     "done": true
   },
@@ -5052,9 +5087,33 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-25 00:49:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/modifier_worktable": {
     "criteria": {
       "has_item": "2025-01-25 00:26:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-25 00:49:09 +0000"
     },
     "done": true
   },
@@ -5109,6 +5168,18 @@
   "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-01-25 00:00:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-01-25 00:51:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-01-25 00:43:54 +0000"
     },
     "done": true
   },
