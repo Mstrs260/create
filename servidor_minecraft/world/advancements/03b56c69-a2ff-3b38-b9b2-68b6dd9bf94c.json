@@ -1828,9 +1828,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-01-25 14:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
     },
     "done": true
   },
@@ -1840,9 +1870,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-25 14:38:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-25 14:47:42 +0000"
     },
     "done": true
   },
@@ -1858,6 +1918,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-25 14:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-01-25 14:38:04 +0000"
@@ -1867,6 +1939,18 @@
   "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-01-25 14:38:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-01-25 14:51:13 +0000"
     },
     "done": true
   },
@@ -1884,9 +1968,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-01-25 14:43:38 +0000",
       "autumnal_maple_forest": "2025-01-25 14:28:32 +0000",
       "muddy_river": "2025-01-25 14:29:06 +0000",
       "frozen_tundra": "2025-01-25 14:29:35 +0000",
+      "maple_forest": "2025-01-25 14:44:58 +0000",
       "boreal_forest": "2025-01-25 14:31:07 +0000",
       "cold_boreal_taiga": "2025-01-25 14:29:57 +0000",
       "cold_river": "2025-01-25 14:28:04 +0000"
@@ -1919,14 +2005,22 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-01-25 14:43:38 +0000",
       "autumnal_maple_forest": "2025-01-25 14:28:32 +0000",
       "muddy_river": "2025-01-25 14:29:06 +0000",
       "frozen_tundra": "2025-01-25 14:29:35 +0000",
+      "maple_forest": "2025-01-25 14:44:58 +0000",
       "boreal_forest": "2025-01-25 14:31:07 +0000",
       "cold_boreal_taiga": "2025-01-25 14:29:57 +0000",
       "cold_river": "2025-01-25 14:28:04 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-25 14:50:25 +0000"
+    },
+    "done": true
   },
   "sliceanddice:recipes/misc/sprinkler": {
     "criteria": {
@@ -1934,9 +2028,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-01-25 14:38:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-25 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
     },
     "done": true
   },
@@ -1955,6 +2073,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-25 14:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
     },
     "done": true
   },
@@ -2012,6 +2136,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-25 14:31:52 +0000"
@@ -2033,6 +2163,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-25 14:40:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-25 14:50:12 +0000"
     },
     "done": true
   },
@@ -2069,6 +2205,12 @@
   "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-01-25 14:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-25 14:50:33 +0000"
     },
     "done": true
   },
