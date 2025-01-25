@@ -1182,3 +1182,93 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [25Jan2025 14:19:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [25Jan2025 14:20:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [25Jan2025 14:21:33.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
+[25Jan2025 14:25:00.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 5.870742234449381,2.252203340253729,-8.072620834141617
+[25Jan2025 14:25:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:25:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:26:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:26:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:26:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:26:36.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:27:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:27:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:27:20.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:27:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:27:36.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sh24_46[/127.39.255.151:59151] logged in with entity id 47028 at (-56.72467944168351, 65.0, 190.55769892232092)
+[25Jan2025 14:27:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sh24_46 joined the game
+[25Jan2025 14:27:36.235] [Server thread/INFO] [APTweaks(Player)/]: Player sh24_46 ServerPlayer['sh24_46'/47028, l='ServerLevel[world]', x=-56.72, y=65.00, z=190.56] logged in and will be protected for 90 secs.
+[25Jan2025 14:27:36.236] [Server thread/INFO] [Jade/]: Syncing config to sh24_46 (03b56c69-a2ff-3b38-b9b2-68b6dd9bf94c)
+[25Jan2025 14:27:43.229] [Server thread/INFO] [APTweaks(Player)/]: Protected Player sh24_46 was successful validated after 6 secs.
+[25Jan2025 14:27:43.229] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player sh24_46!
+[25Jan2025 14:27:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> hola
+[25Jan2025 14:27:45.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:27:48.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ola
+[25Jan2025 14:27:53.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:27:55.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.851770401000977) to LOW (avg. 21.169137954711914)
+[25Jan2025 14:28:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> voy de camino a la aldea cheesburguer
+[25Jan2025 14:28:02.879] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.169137954711914) to VERY_LOW (avg. 19.04376220703125)
+[25Jan2025 14:28:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> cuantos bloques te faltan?
+[25Jan2025 14:28:17.880] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.04376220703125) to LOW (avg. 21.015769958496094)
+[25Jan2025 14:28:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> como 1.5k?
+[25Jan2025 14:28:25.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> redondeando unos 2000
+[25Jan2025 14:28:29.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pero redondeo desde 2400
+[25Jan2025 14:28:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XD
+[25Jan2025 14:28:54.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> te va god el srv?
+[25Jan2025 14:29:00.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> que la aldea principal se llame revenholm
+[25Jan2025 14:29:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si
+[25Jan2025 14:29:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:29:09.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:29:13.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> cada uno tiene su aldea
+[25Jan2025 14:29:15.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> ravenholm*
+[25Jan2025 14:29:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> asi llamare la mia entonces
+[25Jan2025 14:29:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> la chesniburger es la mia
+[25Jan2025 14:29:31.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> ok
+[25Jan2025 14:29:35.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> y la del dead
+[25Jan2025 14:29:36.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> drift sobre hielo
+[25Jan2025 14:29:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> hell yeah
+[25Jan2025 14:29:44.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> se llama mango bajito
+[25Jan2025 14:29:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> somos los 2 unicos q contamos con aldea
+[25Jan2025 14:30:01.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> bien
+[25Jan2025 14:30:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> yo construire la mia
+[25Jan2025 14:30:09.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> really?
+[25Jan2025 14:30:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> yes
+[25Jan2025 14:30:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> good
+[25Jan2025 14:30:25.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.341529846191406) to VERY_LOW (avg. 19.715911865234375)
+[25Jan2025 14:30:33.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 14:30:47.879] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.531661987304688) to LOW (avg. 21.94244384765625)
+[25Jan2025 14:31:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> eeh
+[25Jan2025 14:31:10.379] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.071495056152344) to VERY_LOW (avg. 19.376516342163086)
+[25Jan2025 14:31:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> q?
+[25Jan2025 14:31:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> ahora me faltan 3000 bloques
+[25Jan2025 14:31:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> me emocione en el drift
+[25Jan2025 14:31:18.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> pq XD?
+[25Jan2025 14:31:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ah
+[25Jan2025 14:31:25.380] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.376516342163086) to LOW (avg. 22.809335708618164)
+[25Jan2025 14:31:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> hielo
+[25Jan2025 14:31:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> JAJAJ
+[25Jan2025 14:31:29.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> Xd
+[25Jan2025 14:31:32.933] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.809335708618164) to NORMAL (avg. 44.05659484863281)
+[25Jan2025 14:31:40.380] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.05659484863281) to LOW (avg. 25.205726623535156)
+[25Jan2025 14:31:40.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zanahoria_24[/127.6.78.168:52907] logged in with entity id 51695 at (4.5, 124.0, -3.5)
+[25Jan2025 14:31:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanahoria_24 joined the game
+[25Jan2025 14:31:40.535] [Server thread/INFO] [APTweaks(Player)/]: Player zanahoria_24 ServerPlayer['zanahoria_24'/51695, l='ServerLevel[world]', x=4.50, y=124.00, z=-3.50] logged in and will be protected for 90 secs.
+[25Jan2025 14:31:40.535] [Server thread/INFO] [Jade/]: Syncing config to zanahoria_24 (e39a8947-474f-3590-b627-707ed7389216)
+[25Jan2025 14:31:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanahoria_24 has made the advancement [Now We're Cookin With Gas!]
+[25Jan2025 14:31:41.030] [Server thread/INFO] [APTweaks(Player)/]: Protected Player zanahoria_24 was successful validated after 0 secs.
+[25Jan2025 14:31:41.030] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player zanahoria_24!
+[25Jan2025 14:31:47.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> esa es mi amada
+[25Jan2025 14:31:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> somos novios
+[25Jan2025 14:31:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 14:31:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> real?
+[25Jan2025 14:32:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> si
+[25Jan2025 14:32:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> aja
+[25Jan2025 14:32:08.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> no
+[25Jan2025 14:32:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> que
+[25Jan2025 14:32:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XDDDDDD
+[25Jan2025 14:32:16.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=126, z=0}
+[25Jan2025 14:32:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> pero si dijiste que si
+[25Jan2025 14:32:29.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=124, z=-4}
+[25Jan2025 14:32:29.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=124, z=-4}
+[25Jan2025 14:32:29.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=124, z=-4}
+[25Jan2025 14:32:29.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=124, z=-5}
+[25Jan2025 14:32:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> ya hablamos de eso despues
+[25Jan2025 14:32:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zanahoria_24> cy
