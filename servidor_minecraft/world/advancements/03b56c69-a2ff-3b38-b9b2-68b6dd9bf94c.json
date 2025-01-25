@@ -932,6 +932,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-25 13:59:49 +0000",
+      "baked_potato": "2025-01-25 14:55:32 +0000",
       "bread": "2025-01-25 14:40:29 +0000",
       "rotten_flesh": "2025-01-25 13:57:35 +0000"
     },
@@ -1822,6 +1823,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-01-25 14:38:04 +0000"
@@ -1849,6 +1856,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-01-25 14:58:51 +0000"
     },
     "done": true
   },
@@ -1882,6 +1895,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 14:50:33 +0000"
@@ -1911,6 +1930,15 @@
       "has_potato": "2025-01-25 14:40:16 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "tool_binding": "2025-01-25 15:01:50 +0000",
+      "pick_head": "2025-01-25 14:59:12 +0000",
+      "small_axe_head": "2025-01-25 14:59:05 +0000",
+      "tool_handle": "2025-01-25 14:58:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
@@ -1942,6 +1970,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-01-25 15:02:07 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-01-25 14:50:33 +0000"
@@ -1951,6 +1985,12 @@
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-01-25 14:51:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
     },
     "done": true
   },
@@ -1965,6 +2005,18 @@
       "has_valve": "2025-01-25 14:38:04 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-01-25 15:02:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-01-25 15:02:07 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
@@ -2046,6 +2098,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-25 14:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 14:50:33 +0000"
@@ -2064,9 +2122,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-25 14:53:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-01-25 14:38:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
     },
     "done": true
   },
@@ -2085,6 +2161,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-01-25 14:38:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-25 14:55:12 +0000"
     },
     "done": true
   },
@@ -2121,6 +2203,24 @@
   "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
     "criteria": {
       "has_item": "2025-01-25 14:37:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-01-25 14:57:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
     },
     "done": true
   },
@@ -2184,9 +2284,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-01-25 14:58:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-25 14:53:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-01-25 14:38:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-01-25 14:57:09 +0000"
     },
     "done": true
   },
