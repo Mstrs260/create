@@ -1,121 +1,912 @@
-[25Jan2025 00:00:29.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:00:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:01:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:01:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:01:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:01:41.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:01:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:02:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:02:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:02:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:02:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:03:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:03:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:03:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:03:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:04:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:04:08.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:04:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:04:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:04:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:04:18.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:04:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:04:46.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:04:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:04:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:04:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:05:07.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:05:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:05:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:05:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:06:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:06:52.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:06:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:07:01.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:07:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:07:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:07:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:07:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:07:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:07:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:08:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:08:17.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:08:19.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:08:37.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:09:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Gave 250 [Iron Ingot] to awaconqueso132]
-[25Jan2025 00:10:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:11:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:12:11.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
-[25Jan2025 00:13:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:13:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:18:23.770] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.670453071594238) to LOW (avg. 20.10063934326172)
-[25Jan2025 00:18:31.270] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.10063934326172) to VERY_LOW (avg. 17.51165199279785)
-[25Jan2025 00:18:38.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.51165199279785) to LOW (avg. 21.38215446472168)
-[25Jan2025 00:18:53.771] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.38215446472168) to VERY_LOW (avg. 16.102060317993164)
-[25Jan2025 00:19:19.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
-[25Jan2025 00:19:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:19:42.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:19:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:22:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [Advanced Tool Making]
-[25Jan2025 00:22:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:24:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:24:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:26:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:27:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:29:18.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:29:23.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 384000]
-[25Jan2025 00:29:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:31:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:31:24.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:32:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:32:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:33:10.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:33:18.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:36:45.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:36:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:38:50.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:39:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:39:28.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:41:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:41:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:41:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:42:21.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:43:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:43:13.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:43:16.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:43:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:43:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 00:43:49.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:52:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:52:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:52:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:52:33.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:56:38.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [Tapping the Mantle]
-[25Jan2025 00:56:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [Magma Wheel]
-[25Jan2025 00:59:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:59:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:59:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:59:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 00:59:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 00:59:19.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 01:00:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
-[25Jan2025 01:00:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 01:01:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 600000]
-[25Jan2025 01:12:46.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 was slain by Zombie
-[25Jan2025 01:29:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 01:29:22.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 01:29:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 01:29:57.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 01:30:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 01:30:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 01:30:48.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
-[25Jan2025 01:30:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
-[25Jan2025 01:54:25.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
-[25Jan2025 01:54:25.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
-[25Jan2025 01:54:58.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:51469] logged in with entity id 44036 at (-837.0941850485153, 75.0, 1931.050833990243)
-[25Jan2025 01:54:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
-[25Jan2025 01:54:58.339] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/44036, l='ServerLevel[world]', x=-837.09, y=75.00, z=1931.05] logged in and will be protected for 90 secs.
-[25Jan2025 01:54:58.340] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
-[25Jan2025 01:55:31.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
-[25Jan2025 01:55:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
-[25Jan2025 01:56:15.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28d634e0[id=<null>,name=awaconqueso132,properties={},legacy=false] (/127.188.16.102:32825) lost connection: Disconnected
+[25Jan2025 02:04:20.932] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.24, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[25Jan2025 02:04:20.937] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[25Jan2025 02:04:22.401] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Jan2025 02:04:22.463] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/create/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25Jan2025 02:04:22.508] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 0 skipped entries ...
+[25Jan2025 02:04:22.532] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /workspaces/create/servidor_minecraft/config/adaptive_performance_tweaks/client_side_mods.list
+[25Jan2025 02:04:22.535] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 3 skipped entries ...
+[25Jan2025 02:04:22.548] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /workspaces/create/servidor_minecraft and mods dir /workspaces/create/servidor_minecraft/mods for target SERVER
+[25Jan2025 02:04:22.549] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
+[25Jan2025 02:04:22.551] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~116 mods in /workspaces/create/servidor_minecraft/mods for duplication with file extension .jar ...
+[25Jan2025 02:04:22.911] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
+[25Jan2025 02:04:23.346] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.24/fmlcore-1.20.1-47.3.24.jar is missing mods.toml file
+[25Jan2025 02:04:23.347] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.24/javafmllanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[25Jan2025 02:04:23.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.24/lowcodelanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[25Jan2025 02:04:23.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/create/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.24/mclanguage-1.20.1-47.3.24.jar is missing mods.toml file
+[25Jan2025 02:04:24.116] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[25Jan2025 02:04:24.118] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 38 dependencies adding them to mods collection
+[25Jan2025 02:04:24.554] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[25Jan2025 02:04:24.574] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[25Jan2025 02:04:24.586] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[25Jan2025 02:04:24.593] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/create/servidor_minecraft/mods/scripts as it did not exist.
+[25Jan2025 02:04:24.599] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[25Jan2025 02:04:27.647] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2902ms
+[25Jan2025 02:04:27.649] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[25Jan2025 02:04:29.153] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Jan2025 02:04:29.333] [main/ERROR] [mixin/]: Mixin config roughlyenoughresources.mixins.json does not specify "minVersion" property
+[25Jan2025 02:04:29.439] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[25Jan2025 02:04:29.535] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[25Jan2025 02:04:29.598] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jan2025 02:04:29.704] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 0 override(s) found
+[25Jan2025 02:04:29.705] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[25Jan2025 02:04:29.721] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[25Jan2025 02:04:29.911] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jan2025 02:04:29.938] [main/WARN] [mixin/]: Reference map 'gbd.refmap.json' for gbd.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jan2025 02:04:29.952] [main/WARN] [mixin/]: Reference map 'mixins.create_sa.refmap.json' for mixins.create_sa.json could not be read. If this is a development environment you can ignore this message
+[25Jan2025 02:04:31.553] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[25Jan2025 02:04:31.553] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[25Jan2025 02:04:31.566] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
+[25Jan2025 02:04:31.571] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:31.572] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
+[25Jan2025 02:04:31.590] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[25Jan2025 02:04:31.594] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
+[25Jan2025 02:04:31.598] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
+[25Jan2025 02:04:31.637] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
+[25Jan2025 02:04:31.956] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[25Jan2025 02:04:31.956] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[25Jan2025 02:04:32.030] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[25Jan2025 02:04:32.031] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[25Jan2025 02:04:32.034] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[25Jan2025 02:04:32.035] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[25Jan2025 02:04:32.038] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[25Jan2025 02:04:32.039] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[25Jan2025 02:04:32.041] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[25Jan2025 02:04:32.042] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[25Jan2025 02:04:32.161] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:32.164] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:32.223] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[25Jan2025 02:04:32.866] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.44 s after launch)
+[25Jan2025 02:04:33.032] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[25Jan2025 02:04:33.033] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[25Jan2025 02:04:34.346] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:34.385] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:34.459] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:34.469] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:34.477] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
+[25Jan2025 02:04:34.686] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1814 milliseconds
+[25Jan2025 02:04:37.731] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[25Jan2025 02:04:37.928] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[25Jan2025 02:04:38.330] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[25Jan2025 02:04:38.611] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[25Jan2025 02:04:38.613] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
+[25Jan2025 02:04:38.614] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
+[25Jan2025 02:04:38.637] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
+[25Jan2025 02:04:38.691] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[25Jan2025 02:04:38.869] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[25Jan2025 02:04:39.043] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: ⚠ The log level for APTweaks(Gamerules) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[25Jan2025 02:04:39.044] [modloading-worker-0/WARN] [APTweaks(Gamerules)/]: Adjusting log level for APTweaks(Gamerules) from ALL to INFO, for performance reasons!
+[25Jan2025 02:04:39.045] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Gamerules) from ALL to INFO
+[25Jan2025 02:04:39.054] [modloading-worker-0/INFO] [APTweaks(Gamerules)/]: Registering Adaptive Performance Tweaks: Gamerules common config ...
+[25Jan2025 02:04:39.059] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[25Jan2025 02:04:39.070] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[25Jan2025 02:04:39.217] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[25Jan2025 02:04:39.500] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[25Jan2025 02:04:39.513] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
+[25Jan2025 02:04:39.663] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[25Jan2025 02:04:39.671] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[25Jan2025 02:04:39.696] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
+[25Jan2025 02:04:39.719] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[25Jan2025 02:04:39.877] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[25Jan2025 02:04:39.893] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[25Jan2025 02:04:40.150] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[25Jan2025 02:04:40.151] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[25Jan2025 02:04:40.152] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[25Jan2025 02:04:40.157] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[25Jan2025 02:04:40.235] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[25Jan2025 02:04:40.235] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[25Jan2025 02:04:40.242] [modloading-worker-0/INFO] [rer-ru/]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[25Jan2025 02:04:40.242] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughresources:asi
+[25Jan2025 02:04:40.254] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[25Jan2025 02:04:40.263] [modloading-worker-0/WARN] [APTweaks(Items)/]: ⚠ The log level for APTweaks(Items) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[25Jan2025 02:04:40.263] [modloading-worker-0/WARN] [APTweaks(Items)/]: Adjusting log level for APTweaks(Items) from ALL to INFO, for performance reasons!
+[25Jan2025 02:04:40.263] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Items) from ALL to INFO
+[25Jan2025 02:04:40.268] [modloading-worker-0/INFO] [APTweaks(Items)/]: Registering Adaptive Performance Tweaks: Items common config ...
+[25Jan2025 02:04:40.393] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: ⚠ The log level for APTweaks(Spawn) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[25Jan2025 02:04:40.393] [modloading-worker-0/WARN] [APTweaks(Spawn)/]: Adjusting log level for APTweaks(Spawn) from ALL to INFO, for performance reasons!
+[25Jan2025 02:04:40.394] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Spawn) from ALL to INFO
+[25Jan2025 02:04:40.401] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn common config ...
+[25Jan2025 02:04:40.410] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[25Jan2025 02:04:40.424] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Alex's Mobs spawn config ...
+[25Jan2025 02:04:40.426] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Aquaculture 2 spawn config ...
+[25Jan2025 02:04:40.434] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Born in Chaos Spawn config ...
+[25Jan2025 02:04:40.436] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Custom spawn config ...
+[25Jan2025 02:04:40.438] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Fish's Undead Rising spawn config ...
+[25Jan2025 02:04:40.448] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Friends and Foes spawn config ...
+[25Jan2025 02:04:40.449] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Gothic RPG spawn config ...
+[25Jan2025 02:04:40.451] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Infernal Expansion spawn config ...
+[25Jan2025 02:04:40.452] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Mekanism Additions spawn config ...
+[25Jan2025 02:04:40.455] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Minecraft Spawn config ...
+[25Jan2025 02:04:40.477] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Nether Spawn config ...
+[25Jan2025 02:04:40.478] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Panthalassa spawn config ...
+[25Jan2025 02:04:40.486] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Quark spawn config ...
+[25Jan2025 02:04:40.488] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Tinkers Construct spawn config ...
+[25Jan2025 02:04:40.489] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untamed Wilds spawn config ...
+[25Jan2025 02:04:40.492] [modloading-worker-0/INFO] [APTweaks(Spawn)/]: Registering Adaptive Performance Tweaks: Spawn Untitled Duck Mod spawn config ...
+[25Jan2025 02:04:40.505] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[25Jan2025 02:04:40.533] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[25Jan2025 02:04:41.029] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.24, for MC 1.20.1 with MCP 20230612.114412
+[25Jan2025 02:04:41.029] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.24 Initialized
+[25Jan2025 02:04:41.082] [modloading-worker-0/WARN] [APTweaks(Player)/]: ⚠ The log level for APTweaks(Player) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[25Jan2025 02:04:41.082] [modloading-worker-0/WARN] [APTweaks(Player)/]: Adjusting log level for APTweaks(Player) from ALL to INFO, for performance reasons!
+[25Jan2025 02:04:41.083] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Player) from ALL to INFO
+[25Jan2025 02:04:41.087] [modloading-worker-0/INFO] [APTweaks(Player)/]: Registering Adaptive Performance Tweaks: Player common config ...
+[25Jan2025 02:04:41.240] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[25Jan2025 02:04:41.745] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[25Jan2025 02:04:41.972] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[25Jan2025 02:04:41.973] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Jan2025 02:04:42.311] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.326] [modloading-worker-0/WARN] [REI/]: Plugin org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.330] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.332] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectCommonPlugins(PluginDetectorImpl.java:149) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:155) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23323!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[25Jan2025 02:04:42.344] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.346] [modloading-worker-0/WARN] [REI/]: Plugin uk.me.desert_island.rer.forge.PluginEntryForge is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.347] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.351] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectCommonPlugins(PluginDetectorImpl.java:149) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:155) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23323!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[25Jan2025 02:04:42.361] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.363] [modloading-worker-0/WARN] [REI/]: Plugin dev.ftb.mods.ftblibrary.integration.forge.REIForgePluginStub is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.423] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[25Jan2025 02:04:42.424] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[25Jan2025 02:04:42.424] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[25Jan2025 02:04:42.426] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[25Jan2025 02:04:42.426] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[25Jan2025 02:04:42.439] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.439] [modloading-worker-0/WARN] [REI/]: Plugin org.antarcticgardens.newage.compat.rei.NewAgeReiPlugin is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.441] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.441] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectServerPlugins(PluginDetectorImpl.java:112) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:156) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23323!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[25Jan2025 02:04:42.443] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class uk/me/desert_island/rer/rei_stuff/PluginEntry for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.443] [modloading-worker-0/WARN] [REI/]: Plugin uk.me.desert_island.rer.forge.PluginEntryForge is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.444] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.445] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.24.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:88) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.AnnotationUtils.scanAnnotation(AnnotationUtils.java:52) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.PluginDetectorImpl.detectServerPlugins(PluginDetectorImpl.java:112) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:156) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at me.shedaniel.rei.forge.RoughlyEnoughItemsForge.<init>(RoughlyEnoughItemsForge.java:41) ~[RoughlyEnoughItems-12.1.785-forge.jar%23293!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.3.24.jar%23323!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[25Jan2025 02:04:42.464] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class me/shedaniel/rei/api/client/plugins/REIClientPlugin for invalid dist DEDICATED_SERVER
+[25Jan2025 02:04:42.472] [modloading-worker-0/WARN] [REI/]: Plugin dev.ftb.mods.ftblibrary.integration.forge.REIForgePluginStub is attempting to load on the server, but is not compatible with the server. The mod should declare the environments it is compatible with in the @me.shedaniel.rei.forge.REIPluginCommon annotation.
+[25Jan2025 02:04:42.490] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[25Jan2025 02:04:42.500] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[25Jan2025 02:04:42.500] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[25Jan2025 02:04:42.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[25Jan2025 02:04:42.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[25Jan2025 02:04:42.502] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[25Jan2025 02:04:42.935] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[25Jan2025 02:04:42.952] [modloading-worker-0/INFO] [APTweaks/]: Thanks for using 🚀 Adaptive Performance Tweaks (bundle), please report issues to: https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks/issues
+[25Jan2025 02:04:43.196] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 2 milliseconds
+[25Jan2025 02:04:43.210] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[25Jan2025 02:04:43.213] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[25Jan2025 02:04:43.214] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[25Jan2025 02:04:43.215] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[25Jan2025 02:04:43.219] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[25Jan2025 02:04:43.266] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[25Jan2025 02:04:43.268] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[25Jan2025 02:04:43.269] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[25Jan2025 02:04:43.270] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[25Jan2025 02:04:46.390] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.391] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:46.392] [main/INFO] [Create Deco/]: placard tooltip was null
+[25Jan2025 02:04:48.598] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[25Jan2025 02:04:49.021] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[25Jan2025 02:04:49.077] [main/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[25Jan2025 02:04:49.225] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[25Jan2025 02:04:49.235] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[25Jan2025 02:04:49.279] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
+[25Jan2025 02:04:49.320] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[25Jan2025 02:04:49.329] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[25Jan2025 02:04:49.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[25Jan2025 02:04:49.394] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Create Ore Excavation starting
+[25Jan2025 02:04:49.409] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Initilaized Network Handler
+[25Jan2025 02:04:49.429] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[25Jan2025 02:04:49.432] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[25Jan2025 02:04:49.433] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[25Jan2025 02:04:49.434] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[25Jan2025 02:04:49.434] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[25Jan2025 02:04:49.434] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[25Jan2025 02:04:49.507] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[25Jan2025 02:04:49.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.3.2 Target: null
+[25Jan2025 02:04:49.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[25Jan2025 02:04:49.747] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@44639c78]
+[25Jan2025 02:04:49.751] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[25Jan2025 02:04:49.817] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[25Jan2025 02:04:49.818] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[25Jan2025 02:04:49.818] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[25Jan2025 02:04:49.818] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[25Jan2025 02:04:49.818] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[25Jan2025 02:04:49.819] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[25Jan2025 02:04:49.819] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[25Jan2025 02:04:49.820] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 4 for type OVERWORLD
+[25Jan2025 02:04:49.820] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 5 for type OVERWORLD
+[25Jan2025 02:04:49.821] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 3 for type NETHER
+[25Jan2025 02:04:49.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[25Jan2025 02:04:49.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[25Jan2025 02:04:49.966] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25Jan2025 02:04:49.968] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Jan2025 02:04:49.992] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25Jan2025 02:04:49.992] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Jan2025 02:04:50.303] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[25Jan2025 02:04:50.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[25Jan2025 02:04:50.317] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[25Jan2025 02:04:50.326] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[25Jan2025 02:04:50.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[25Jan2025 02:04:50.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[25Jan2025 02:04:50.330] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[25Jan2025 02:04:50.332] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[25Jan2025 02:04:50.333] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[25Jan2025 02:04:50.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[25Jan2025 02:04:50.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[25Jan2025 02:04:50.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[25Jan2025 02:04:50.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[25Jan2025 02:04:50.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.1.4+mc.1.20.1-forge Target: null
+[25Jan2025 02:04:50.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[25Jan2025 02:04:50.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[25Jan2025 02:04:50.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Jan2025 02:04:50.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.24 Target: 47.3.25
+[25Jan2025 02:04:50.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[25Jan2025 02:04:50.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[25Jan2025 02:04:50.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_structures] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/mod/create-structures/version/e9v4MIpX/updates/IAnP4np7/forge_updates.json
+[25Jan2025 02:04:50.835] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.ConnectException: null
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:142) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:180) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.3.24.jar%23322!/:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1083) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+Caused by: java.nio.channels.UnresolvedAddressException
+	at sun.nio.ch.Net.checkAddress(Net.java:149) ~[?:?]
+	at sun.nio.ch.Net.checkAddress(Net.java:157) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:816) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:839) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+[25Jan2025 02:04:50.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Ore-Excavation/main/version-check.json
+[25Jan2025 02:04:50.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Found status: BETA Current: 1.5.3 Target: 1.5.3
+[25Jan2025 02:04:50.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[25Jan2025 02:04:51.104] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Jan2025 02:04:51.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[25Jan2025 02:04:51.579] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23321!/assets/.mcassetsroot' uses unexpected schema
+[25Jan2025 02:04:51.580] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/create/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23321!/data/.mcassetsroot' uses unexpected schema
+[25Jan2025 02:04:54.748] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[25Jan2025 02:04:54.753] [main/INFO] [APTweaks(Gamerules)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Gamerules ...
+[25Jan2025 02:04:54.863] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[25Jan2025 02:04:54.870] [main/INFO] [APTweaks(Items)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Items ...
+[25Jan2025 02:04:54.872] [main/INFO] [APTweaks(Spawn)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Spawn ...
+[25Jan2025 02:04:54.886] [main/INFO] [APTweaks(Player)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Player ...
+[25Jan2025 02:04:54.952] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[25Jan2025 02:04:55.248] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmers_structures:is_quark_glimer_spawn as it is missing following references: quark:glimmering_weald (from FarmersStructures-1.0.3-1.20.jar)
+[25Jan2025 02:04:55.295] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:cooked_trilocararis as it is missing following references: alexscaves:cooked_trilocararis (from alexscavesdelight-1.0.24-1.20.1.jar)
+[25Jan2025 02:04:55.300] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_raw as it is missing following references: alexscaves:dinosaur_chop_raw (from alexscavesdelight-1.0.24-1.20.1.jar)
+[25Jan2025 02:04:55.309] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:dinosaur_chop_cooked as it is missing following references: alexscaves:dinosaur_chop_cooked (from alexscavesdelight-1.0.24-1.20.1.jar)
+[25Jan2025 02:04:55.931] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create:compacting/rock_candys/blocks/chiseled_red_rock from create:recipes/compacting/rock_candys/blocks/chiseled_red_rock.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1455) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	... 13 more
+[25Jan2025 02:04:57.158] [Worker-Main-4/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 20.413803 ms
+[25Jan2025 02:04:57.608] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:raboutan_sail_c_raft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:ramboutan_planks'
+[25Jan2025 02:04:57.610] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.631] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.652] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:chorus_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'unusualend:chorus_nest_planks'
+[25Jan2025 02:04:57.685] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:black_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[25Jan2025 02:04:57.701] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.714] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:white_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[25Jan2025 02:04:57.716] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:mangrove_sail_craft_backport: com.google.gson.JsonSyntaxException: Unknown item 'wildbackport:mangrove_planks'
+[25Jan2025 02:04:57.728] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.739] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[25Jan2025 02:04:57.747] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:filling/chocolate_bagutte: com.google.gson.JsonSyntaxException: Unknown item 'createsweetsandtreets:bagutte'
+[25Jan2025 02:04:57.758] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[25Jan2025 02:04:57.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+[25Jan2025 02:04:57.760] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.787] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[25Jan2025 02:04:57.797] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder: com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
+[25Jan2025 02:04:57.814] [main/WARN] [com.simibubi.create.Create/]: Your custom create:mixing recipe (createaddition:compat/tconstruct/pig_iron_2) has more item inputs (13) than supported (9).
+[25Jan2025 02:04:57.820] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:jaboticaba_sail_craft: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exoticism:jaboticaba_planks'
+[25Jan2025 02:04:57.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_confectionery:ruby_chocolate_recipe_6: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[25Jan2025 02:04:57.826] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.828] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.841] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:copper_scaffolding_craft: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[25Jan2025 02:04:57.851] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_zinc_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:zinc_dust'
+[25Jan2025 02:04:57.879] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:freezing/powder_snow: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createsweetsandtreets:freezing'
+[25Jan2025 02:04:57.884] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[25Jan2025 02:04:57.895] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createbb:misc/smelt_copper_dust: com.google.gson.JsonSyntaxException: Unknown item 'createbb:copper_dust'
+[25Jan2025 02:04:57.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 47 recipes
+[25Jan2025 02:04:57.912] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[25Jan2025 02:04:57.990] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[25Jan2025 02:04:58.071] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[25Jan2025 02:04:58.140] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement createsweetsandtreets:brass_cookin: Expected item to be an item, was unknown string 'createsweetsandtreets:deleted_mod_element'
+[25Jan2025 02:04:58.185] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7118 advancements
+[25Jan2025 02:04:58.190] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[25Jan2025 02:04:58.224] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[25Jan2025 02:04:58.242] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25Jan2025 02:04:58.288] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[25Jan2025 02:04:58.289] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[25Jan2025 02:04:58.292] [main/INFO] [REI/]: [REI] Plugins (2):
+[25Jan2025 02:04:58.292] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[25Jan2025 02:04:58.293] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[25Jan2025 02:04:58.293] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[25Jan2025 02:04:58.331] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[25Jan2025 02:04:58.332] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[25Jan2025 02:04:58.334] [main/INFO] [REI/]: [REI] Plugins (2):
+[25Jan2025 02:04:58.335] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[25Jan2025 02:04:58.336] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[25Jan2025 02:04:58.337] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[25Jan2025 02:04:58.358] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 3.794 ms, totaling 62.31 ms.
+[25Jan2025 02:04:58.364] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 2.405 ms, totaling 22.49 ms.
+[25Jan2025 02:04:58.382] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[25Jan2025 02:04:58.383] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[25Jan2025 02:04:58.386] [main/INFO] [REI/]: [REI] Plugins (2):
+[25Jan2025 02:04:58.387] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[25Jan2025 02:04:58.387] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[25Jan2025 02:04:58.388] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[25Jan2025 02:04:58.417] [main/INFO] [REI/]: [REI] ****************************************
+[25Jan2025 02:04:58.417] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[25Jan2025 02:04:58.418] [main/INFO] [REI/]: [REI] Plugins (2):
+[25Jan2025 02:04:58.419] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[25Jan2025 02:04:58.419] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[25Jan2025 02:04:58.419] [main/INFO] [REI/]: [REI] ****************************************
+[25Jan2025 02:04:58.441] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 6.276 ms, totaling 45.59 ms.
+[25Jan2025 02:04:58.449] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 2.961 ms, totaling 16.94 ms.
+[25Jan2025 02:04:58.449] [main/INFO] [rechiseled/]: Loaded 66 chiseling recipes
+[25Jan2025 02:04:58.516] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 56.858124 ms
+[25Jan2025 02:04:58.537] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 20.968275 ms
+[25Jan2025 02:04:58.538] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 1.029992 ms
+[25Jan2025 02:04:58.542] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 3.419772 ms
+[25Jan2025 02:04:58.543] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 0.738618 ms
+[25Jan2025 02:04:58.554] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 6.730229 ms
+[25Jan2025 02:04:58.570] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 15.511847 ms
+[25Jan2025 02:04:58.596] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 25.660175 ms
+[25Jan2025 02:04:58.630] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 32.881985 ms
+[25Jan2025 02:04:58.645] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 14.084463 ms
+[25Jan2025 02:04:58.649] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.693302 ms
+[25Jan2025 02:04:58.689] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: farmers_structures:is_quark_glimer_spawn, quark:has_fallen_jungle
+[25Jan2025 02:04:58.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Jan2025 02:04:58.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Jan2025 02:04:58.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Jan2025 02:04:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Jan2025 02:04:59.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Jan2025 02:04:59.206] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Jan2025 02:04:59.278] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Jan2025 02:04:59.278] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Jan2025 02:04:59.278] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Jan2025 02:04:59.279] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Jan2025 02:04:59.296] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[25Jan2025 02:04:59.299] [Server thread/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-server.toml
+[25Jan2025 02:04:59.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
+[25Jan2025 02:04:59.547] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[25Jan2025 02:04:59.548] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[25Jan2025 02:04:59.548] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[25Jan2025 02:04:59.548] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[25Jan2025 02:04:59.548] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[25Jan2025 02:04:59.549] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[25Jan2025 02:04:59.549] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[25Jan2025 02:04:59.549] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[25Jan2025 02:04:59.549] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[25Jan2025 02:04:59.550] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[25Jan2025 02:04:59.550] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 41.1 sec to load ...
+[25Jan2025 02:04:59.552] [Server thread/INFO] [APTweaks(Items)/]: Max number of Items allowed per world: 128 / per type: 32
+[25Jan2025 02:04:59.553] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of items with a radius of 3 blocks.
+[25Jan2025 02:04:59.553] [Server thread/INFO] [APTweaks(Items)/]: Optimize all items except from deny list: [item.minecraft.diamond, item.minecraft.diamond_block]
+[25Jan2025 02:04:59.555] [Server thread/INFO] [APTweaks(Items)/]: Enable clustering of Experience Orbs with a radius of 4 blocks.
+[25Jan2025 02:04:59.555] [Server thread/ERROR] [APTweaks(Items)/]: WARNING: Clumps groups XP orbs together into a new single entity, which will conflict with the XP Orb feature of this mod!
+[25Jan2025 02:04:59.555] [Server thread/WARN] [APTweaks(Items)/]: Don't use both optimizations together! Clustering of Experience Orbs will be automatically disabled!
+[25Jan2025 02:04:59.555] [Server thread/INFO] [APTweaks(Spawn)/]: Clearing spawn rates calculation ...
+[25Jan2025 02:04:59.556] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 20 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.556] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 13 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.556] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 26 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.557] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.557] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 1 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.557] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 7 mobs with maxPerPlayer:16, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.558] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for minecraft and 5 mobs with maxPerPlayer:8, maxPerWorld:32 and maxPerServer:320
+[25Jan2025 02:04:59.558] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for minecraft and 2 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
+[25Jan2025 02:04:59.558] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for minecraft and 3 mobs with maxPerPlayer:16, maxPerWorld:64 and maxPerServer:320
+[25Jan2025 02:04:59.558] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable passive mobs spawn rate control for alexsmobs and 10 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[25Jan2025 02:04:59.559] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable neutral mobs spawn rate control for alexsmobs and 19 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[25Jan2025 02:04:59.559] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for alexsmobs and 17 mobs with maxPerPlayer:4, maxPerWorld:16 and maxPerServer:320
+[25Jan2025 02:04:59.559] [Server thread/INFO] [APTweaks(Spawn)/]: ✓ Enable hostile mobs spawn rate control for tconstruct and 3 mobs with maxPerPlayer:6, maxPerWorld:24 and maxPerServer:320
+[25Jan2025 02:04:59.559] [Server thread/INFO] [APTweaks(Spawn)/]: Added 126 player spawn rules, 126 world spawn rules and 0 special spawn rules.
+[25Jan2025 02:04:59.583] [Server thread/INFO] [APTweaks(Player)/]: Child player hurt damage will be reduced by 50% for []
+[25Jan2025 02:04:59.583] [Server thread/INFO] [APTweaks(Player)/]: Child player attack damage will be increased by 50% for []
+[25Jan2025 02:04:59.597] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[25Jan2025 02:05:00.400] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[25Jan2025 02:05:00.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Jan2025 02:05:00.845] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[25Jan2025 02:05:01.028] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[25Jan2025 02:05:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Jan2025 02:05:01.653] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:01.654] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:02.162] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:02.532] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:03.042] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:03.530] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jan2025 02:05:04.095] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[25Jan2025 02:05:04.436] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3406 ms
+[25Jan2025 02:05:04.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.147s)! For help, type "help"
+[25Jan2025 02:05:04.510] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Jan2025 02:05:04.511] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
+[25Jan2025 02:05:04.511] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 46.061 sec to starting (∆: 4.961 secs)...
+[25Jan2025 02:05:04.513] [Server thread/INFO] [APTweaks(Gamerules)/]: Gamerules will be optimized with an 30 sec delay between updates.
+[25Jan2025 02:05:04.513] [Server thread/INFO] [APTweaks(Gamerules)/]: Random Tick Speed will be optimized between 1 and 3
+[25Jan2025 02:05:04.514] [Server thread/INFO] [APTweaks(Gamerules)/]: Max Entity Cramming will be optimized between 5 and 24
+[25Jan2025 02:05:04.514] [Server thread/INFO] [APTweaks(Gamerules)/]: Block explosions will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.515] [Server thread/INFO] [APTweaks(Gamerules)/]: Elytra movement check will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.515] [Server thread/INFO] [APTweaks(Gamerules)/]: Insomnia (phantoms spawn) will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.516] [Server thread/INFO] [APTweaks(Gamerules)/]: Mob explosions will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.517] [Server thread/INFO] [APTweaks(Gamerules)/]: Patrol spawning will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.517] [Server thread/INFO] [APTweaks(Gamerules)/]: Raids will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.518] [Server thread/INFO] [APTweaks(Gamerules)/]: Trader spawning will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.518] [Server thread/INFO] [APTweaks(Gamerules)/]: TNT explosions will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.519] [Server thread/INFO] [APTweaks(Gamerules)/]: Vines spread will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.519] [Server thread/INFO] [APTweaks(Gamerules)/]: Warden spawning will be automatically disabled during very high server load!
+[25Jan2025 02:05:04.520] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn allow list: []
+[25Jan2025 02:05:04.521] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Spawn deny list: []
+[25Jan2025 02:05:04.521] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] Ignore dimension list: [minecraft:the_end]
+[25Jan2025 02:05:04.522] [Server thread/INFO] [APTweaks(Spawn)/]: If you want to use a more aggressive spawn optimization, please set 'spawnAggressiveMode' to 'true'
+[25Jan2025 02:05:04.523] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable limiter and block randomly every 16 mob from spawning ...
+[25Jan2025 02:05:04.523] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 32 per player ...
+[25Jan2025 02:05:04.524] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 128 per world ...
+[25Jan2025 02:05:04.524] [Server thread/INFO] [APTweaks(Spawn)/]: [APTweaks:Spawn] ✓ Enable spawn rate control with max 512 per server ...
+[25Jan2025 02:05:04.525] [Server thread/WARN] [APTweaks(Spawn)/]: 🛈 There are known issue with the Create mod! For this reasons all optimizations for related Create entities and/or items are disabled!
+[25Jan2025 02:05:04.526] [Server thread/INFO] [APTweaks(Player)/]: Player will be protected during login for max. of 90 secs.
+[25Jan2025 02:05:04.527] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
+[25Jan2025 02:05:04.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 46.083 sec to be available and ready to play (∆: 0.022 secs) ...
+[25Jan2025 02:05:11.436] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[25Jan2025 02:05:11.438] [Server thread/WARN] [ModernFix/]: Dedicated server took 53.008 seconds to load
+[25Jan2025 02:05:12.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 21.40033721923828)
+[25Jan2025 02:05:13.442] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 9.91896237)
+[25Jan2025 02:05:13.443] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.09872291)
+[25Jan2025 02:05:13.443] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.05739453)
+[25Jan2025 02:05:27.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.40033721923828) to VERY_LOW (avg. 3.143688917160034)
+[25Jan2025 02:06:33.693] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[25Jan2025 02:06:33.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:55123] logged in with entity id 123 at (-837.0941850485153, 75.0, 1931.050833990243)
+[25Jan2025 02:06:33.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[25Jan2025 02:06:34.073] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/123, l='ServerLevel[world]', x=-837.09, y=75.00, z=1931.05] logged in and will be protected for 90 secs.
+[25Jan2025 02:06:34.074] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[25Jan2025 02:06:36.270] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 3.3852603435516357) to LOW (avg. 36.06250762939453)
+[25Jan2025 02:06:37.321] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 9.91896237) to LOW (avg. 15.49626982)
+[25Jan2025 02:06:57.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.196083068847656) to VERY_LOW (avg. 14.932153701782227)
+[25Jan2025 02:07:03.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
+[25Jan2025 02:07:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[25Jan2025 02:07:44.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MC_Dead[/127.198.214.147:47475] logged in with entity id 714 at (-669.6391924464803, 63.0, 2202.6652360850994)
+[25Jan2025 02:07:44.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead joined the game
+[25Jan2025 02:07:45.078] [Server thread/INFO] [APTweaks(Player)/]: Player MC_Dead ServerPlayer['MC_Dead'/714, l='ServerLevel[world]', x=-669.64, y=63.00, z=2202.67] logged in and will be protected for 90 secs.
+[25Jan2025 02:07:45.078] [Server thread/INFO] [Jade/]: Syncing config to MC_Dead (ea0a662a-afbf-33da-8f0d-3ddf51d8a037)
+[25Jan2025 02:07:51.289] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MC_Dead was successful validated after 6 secs.
+[25Jan2025 02:07:51.290] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MC_Dead!
+[25Jan2025 02:09:18.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola qlero
+[25Jan2025 02:09:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.97679901123047) to LOW (avg. 22.022228240966797)
+[25Jan2025 02:09:40.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1817, l='ServerLevel[world]', x=-657.22, y=63.00, z=2273.42] died, message: 'Unemployed was slain by Zombie'
+[25Jan2025 02:09:42.189] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.713333129882812) to VERY_LOW (avg. 19.398706436157227)
+[25Jan2025 02:10:12.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.308862686157227) to LOW (avg. 21.42626953125)
+[25Jan2025 02:10:27.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.42626953125) to VERY_LOW (avg. 18.954500198364258)
+[25Jan2025 02:10:34.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.954500198364258) to LOW (avg. 27.6212158203125)
+[25Jan2025 02:10:42.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.6212158203125) to VERY_LOW (avg. 19.1865291595459)
+[25Jan2025 02:10:57.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.1865291595459) to LOW (avg. 21.58592414855957)
+[25Jan2025 02:10:58.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _WisKaOfficial_[/127.216.210.226:49061] logged in with entity id 2855 at (-2.5, 123.0, 8.5)
+[25Jan2025 02:10:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ joined the game
+[25Jan2025 02:10:59.010] [Server thread/INFO] [APTweaks(Player)/]: Player _WisKaOfficial_ ServerPlayer['_WisKaOfficial_'/2855, l='ServerLevel[world]', x=-2.50, y=123.00, z=8.50] logged in and will be protected for 90 secs.
+[25Jan2025 02:10:59.010] [Server thread/INFO] [Jade/]: Syncing config to _WisKaOfficial_ (0673a2cf-38d0-384b-a42f-ef412c2b729a)
+[25Jan2025 02:10:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ has made the advancement [Now We're Cookin With Gas!]
+[25Jan2025 02:10:59.890] [Server thread/INFO] [APTweaks(Player)/]: Protected Player _WisKaOfficial_ was successful validated after 0 secs.
+[25Jan2025 02:10:59.890] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player _WisKaOfficial_!
+[25Jan2025 02:11:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> donde
+[25Jan2025 02:11:25.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> HOLA
+[25Jan2025 02:11:28.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> hola
+[25Jan2025 02:11:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ has made the advancement [Monster Hunter]
+[25Jan2025 02:11:47.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> me heche a 2 zombies
+[25Jan2025 02:11:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> a puño
+[25Jan2025 02:12:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> XDD
+[25Jan2025 02:12:04.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> afk
+[25Jan2025 02:12:36.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] reiniciare el pc, esta como ahuevado (att: sun tzu).
+[25Jan2025 02:14:19.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1812, l='ServerLevel[world]', x=-698.80, y=78.00, z=2236.84] died, message: 'Nitwit was slain by Zombie'
+[25Jan2025 02:14:27.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1810, l='ServerLevel[world]', x=-722.70, y=77.00, z=2253.52] died, message: 'Unemployed was slain by Zombie'
+[25Jan2025 02:16:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> volvi
+[25Jan2025 02:16:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> oca
+[25Jan2025 02:16:21.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> oka
+[25Jan2025 02:16:25.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> me lo subi los shaders
+[25Jan2025 02:16:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> pasa captura pa ve
+[25Jan2025 02:16:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> dpmde amdam
+[25Jan2025 02:16:57.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=122, z=4} BlockPos{x=-15, y=121, z=3}
+[25Jan2025 02:16:57.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=122, z=4} BlockPos{x=-15, y=121, z=3}
+[25Jan2025 02:16:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> EN -657 63 2205
+[25Jan2025 02:17:03.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> como entendiste
+[25Jan2025 02:17:05.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> lo que dije jajaja
+[25Jan2025 02:17:12.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> mmm
+[25Jan2025 02:17:16.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> no se
+[25Jan2025 02:17:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> jajaja
+[25Jan2025 02:17:33.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> empezamos con los robos
+[25Jan2025 02:17:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> y mi mesa
+[25Jan2025 02:17:38.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=125, z=4} BlockPos{x=-16, y=122, z=7}
+[25Jan2025 02:17:41.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=125, z=4} BlockPos{x=-16, y=121, z=7}
+[25Jan2025 02:17:41.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=125, z=4} BlockPos{x=-13, y=122, z=6}
+[25Jan2025 02:17:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> que pedo
+[25Jan2025 02:17:51.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> ayuda
+[25Jan2025 02:17:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> me estan robando
+[25Jan2025 02:17:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> Q PASO
+[25Jan2025 02:18:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:18:02.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=125, z=4} BlockPos{x=-13, y=123, z=6}
+[25Jan2025 02:18:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> ando picando la madera y no me da ni mr
+[25Jan2025 02:18:09.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=125, z=4} BlockPos{x=-13, y=123, z=6}
+[25Jan2025 02:20:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ has made the advancement [Stone Age]
+[25Jan2025 02:20:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> me suicidare espera
+[25Jan2025 02:20:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ fell from a high place
+[25Jan2025 02:21:45.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ has made the advancement [Getting an Upgrade]
+[25Jan2025 02:22:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> ya vuelvo
+[25Jan2025 02:22:06.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _WisKaOfficial_ lost connection: Disconnected
+[25Jan2025 02:22:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ left the game
+[25Jan2025 02:22:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.851112365722656) to VERY_LOW (avg. 16.8258056640625)
+[25Jan2025 02:22:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] kiriku
+[25Jan2025 02:23:03.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:25:12.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.058862686157227) to LOW (avg. 21.518558502197266)
+[25Jan2025 02:25:19.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.518558502197266) to VERY_LOW (avg. 17.17583465576172)
+[25Jan2025 02:26:34.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.06131362915039) to LOW (avg. 21.28973960876465)
+[25Jan2025 02:26:42.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.28973960876465) to VERY_LOW (avg. 18.64974594116211)
+[25Jan2025 02:27:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.39030647277832) to LOW (avg. 21.88714599609375)
+[25Jan2025 02:27:42.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.77320671081543) to VERY_LOW (avg. 19.910640716552734)
+[25Jan2025 02:28:04.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.257125854492188) to LOW (avg. 20.068950653076172)
+[25Jan2025 02:28:12.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.068950653076172) to VERY_LOW (avg. 19.357576370239258)
+[25Jan2025 02:28:19.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.357576370239258) to LOW (avg. 21.55484390258789)
+[25Jan2025 02:29:04.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.253150939941406) to VERY_LOW (avg. 17.679960250854492)
+[25Jan2025 02:29:27.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.841533660888672) to LOW (avg. 21.079242706298828)
+[25Jan2025 02:30:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.700441360473633) to VERY_LOW (avg. 17.188735961914062)
+[25Jan2025 02:30:34.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.188735961914062) to LOW (avg. 20.759119033813477)
+[25Jan2025 02:30:42.189] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.759119033813477) to VERY_LOW (avg. 17.731595993041992)
+[25Jan2025 02:30:57.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.731595993041992) to LOW (avg. 20.565017700195312)
+[25Jan2025 02:31:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.052013397216797) to VERY_LOW (avg. 19.44819450378418)
+[25Jan2025 02:32:04.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.21392059326172) to LOW (avg. 21.132972717285156)
+[25Jan2025 02:32:12.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.132972717285156) to VERY_LOW (avg. 17.71485137939453)
+[25Jan2025 02:33:34.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.382633209228516) to LOW (avg. 21.358848571777344)
+[25Jan2025 02:33:52.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1833, l='ServerLevel[world]', x=-671.41, y=64.00, z=2199.67] died, message: 'Fletcher was slain by Zombie'
+[25Jan2025 02:33:57.193] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.198657989501953) to VERY_LOW (avg. 19.413904190063477)
+[25Jan2025 02:34:27.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.295251846313477) to LOW (avg. 20.11338996887207)
+[25Jan2025 02:34:49.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.683792114257812) to VERY_LOW (avg. 11.209270477294922)
+[25Jan2025 02:36:19.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead has made the advancement [Crops of the Wild]
+[25Jan2025 02:37:45.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9302, l='ServerLevel[world]', x=-963.30, y=86.00, z=773.30] died, message: 'Nitwit was slain by Zombie'
+[25Jan2025 02:37:51.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _WisKaOfficial_[/127.216.210.226:45637] logged in with entity id 10307 at (-47.16869132617709, 82.0, 181.69999998807907)
+[25Jan2025 02:37:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ joined the game
+[25Jan2025 02:37:51.786] [Server thread/INFO] [APTweaks(Player)/]: Player _WisKaOfficial_ ServerPlayer['_WisKaOfficial_'/10307, l='ServerLevel[world]', x=-47.17, y=82.00, z=181.70] logged in and will be protected for 90 secs.
+[25Jan2025 02:37:51.787] [Server thread/INFO] [Jade/]: Syncing config to _WisKaOfficial_ (0673a2cf-38d0-384b-a42f-ef412c2b729a)
+[25Jan2025 02:37:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> volvi
+[25Jan2025 02:38:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> HOLA XD
+[25Jan2025 02:38:07.591] [Server thread/INFO] [APTweaks(Player)/]: Protected Player _WisKaOfficial_ was successful validated after 15 secs.
+[25Jan2025 02:38:07.591] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player _WisKaOfficial_!
+[25Jan2025 02:38:08.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> XD
+[25Jan2025 02:38:12.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.925371170043945) to LOW (avg. 20.520456314086914)
+[25Jan2025 02:38:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> fui a cenar
+[25Jan2025 02:38:19.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.520456314086914) to VERY_LOW (avg. 17.730539321899414)
+[25Jan2025 02:38:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> pye eres dead?
+[25Jan2025 02:38:27.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> ._.
+[25Jan2025 02:38:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> bro el nick lo dice todo
+[25Jan2025 02:38:34.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> a XD
+[25Jan2025 02:38:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xd
+[25Jan2025 02:38:42.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.319744110107422) to LOW (avg. 22.855125427246094)
+[25Jan2025 02:38:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> ya van 2 veces hoy
+[25Jan2025 02:38:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> tengo autismo 1 grado
+[25Jan2025 02:38:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> xdd
+[25Jan2025 02:38:54.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xD
+[25Jan2025 02:38:57.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.855125427246094) to VERY_LOW (avg. 18.63081169128418)
+[25Jan2025 02:39:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> quye mr
+[25Jan2025 02:39:27.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.317363739013672) to LOW (avg. 20.21087646484375)
+[25Jan2025 02:39:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> cai en las redes de ella
+[25Jan2025 02:39:38.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> ._. por nuv
+[25Jan2025 02:39:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] c me olvido q este servidor existia :v
+[25Jan2025 02:39:42.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> jaja
+[25Jan2025 02:39:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> owner
+[25Jan2025 02:39:46.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> unite gordo
+[25Jan2025 02:39:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> xddd
+[25Jan2025 02:39:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> hoy muero
+[25Jan2025 02:40:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ burned to death
+[25Jan2025 02:40:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] andaba buscando com pendejo un servidor con create para jugar JJAJAJA
+[25Jan2025 02:40:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> .-.
+[25Jan2025 02:40:25.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> bro
+[25Jan2025 02:40:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> nos ibas a dejar aqui?
+[25Jan2025 02:40:58.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 32.5548345) to NORMAL (avg. 39.0954224)
+[25Jan2025 02:41:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _WisKaOfficial_ was shot by Skeleton
+[25Jan2025 02:41:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> mmta
+[25Jan2025 02:41:19.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.391071319580078) to VERY_LOW (avg. 18.225231170654297)
+[25Jan2025 02:41:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> hay duermo pe
+[25Jan2025 02:41:34.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.225231170654297) to LOW (avg. 24.3579158782959)
+[25Jan2025 02:42:14.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> MI CASA
+[25Jan2025 02:42:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> RAYO DE MRD
+[25Jan2025 02:42:19.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> mi casa tio
+[25Jan2025 02:42:26.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mi casa tio mi casaa
+[25Jan2025 02:42:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> QUE DESAPARECE QUE DESAPARECE MI CASA
+[25Jan2025 02:43:07.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> sigues en las cords?
+[25Jan2025 02:43:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> see
+[25Jan2025 02:43:28.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> 2000m
+[25Jan2025 02:43:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> ya tenemos 3 aldeas encontradas (una es mia y la otra del zoro)
+[25Jan2025 02:43:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_WisKaOfficial_> ok
+[25Jan2025 02:43:48.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> tenes la posibilidad de o
+[25Jan2025 02:43:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> 1 quedarte en mi aldea
+[25Jan2025 02:43:56.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> o quedarte en la de zoro
+[25Jan2025 02:44:06.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MC_Dead> o en la que no esta "reclamada"
