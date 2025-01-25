@@ -4746,6 +4746,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-01-25 00:00:46 +0000"
@@ -4791,6 +4797,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
       "has_chest": "2025-01-25 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
     },
     "done": true
   },
@@ -4926,6 +4938,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-01-25 00:00:46 +0000"
@@ -4980,6 +4998,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-24 23:33:47 +0000"
@@ -5007,6 +5031,12 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-01-24 23:33:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
     },
     "done": true
   },
@@ -5043,6 +5073,24 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2025-01-25 00:26:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-01-25 00:41:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
     },
     "done": true
   },
@@ -5106,6 +5154,12 @@
     },
     "done": true
   },
+  "tconstruct:world/tinkers_gadgetry": {
+    "criteria": {
+      "crafted_book": "2025-01-25 00:36:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-01-25 00:00:46 +0000"
@@ -5127,6 +5181,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-01-24 23:33:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-01-25 00:33:18 +0000"
     },
     "done": true
   },
