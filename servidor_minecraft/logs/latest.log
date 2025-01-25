@@ -820,3 +820,37 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [25Jan2025 13:30:36.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [25Jan2025 13:30:51.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [25Jan2025 13:30:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 13:33:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 13:33:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 13:33:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 13:33:28.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 13:33:45.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 13:34:06.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 13:34:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 13:34:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[25Jan2025 13:34:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[25Jan2025 13:35:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[25Jan2025 13:38:08.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melonotjuanjo[/127.147.77.184:37917] logged in with entity id 18073 at (3.5, 125.0, -5.5)
+[25Jan2025 13:38:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonotjuanjo joined the game
+[25Jan2025 13:38:08.475] [Server thread/INFO] [APTweaks(Player)/]: Player Melonotjuanjo ServerPlayer['Melonotjuanjo'/18073, l='ServerLevel[world]', x=3.50, y=125.00, z=-5.50] logged in and will be protected for 90 secs.
+[25Jan2025 13:38:08.475] [Server thread/INFO] [Jade/]: Syncing config to Melonotjuanjo (082a3bb6-5617-396a-8475-39b109f1961c)
+[25Jan2025 13:38:08.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonotjuanjo has made the advancement [Now We're Cookin With Gas!]
+[25Jan2025 13:38:08.837] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Melonotjuanjo was successful validated after 0 secs.
+[25Jan2025 13:38:08.838] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Melonotjuanjo!
+[25Jan2025 13:38:32.879] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.31602668762207) to LOW (avg. 20.80244255065918)
+[25Jan2025 13:38:47.879] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.80244255065918) to VERY_LOW (avg. 18.50106430053711)
+[25Jan2025 13:38:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> ola buenas
+[25Jan2025 13:39:02.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> amigo no me carga la skin
+[25Jan2025 13:39:31.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melonotjuanjo lost connection: Disconnected
+[25Jan2025 13:39:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonotjuanjo left the game
+[25Jan2025 13:41:08.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sh24_46[/127.39.255.151:57283] logged in with entity id 19463 at (-7.5, 136.0, -2.5)
+[25Jan2025 13:41:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sh24_46 joined the game
+[25Jan2025 13:41:08.963] [Server thread/INFO] [APTweaks(Player)/]: Player sh24_46 ServerPlayer['sh24_46'/19463, l='ServerLevel[world]', x=-7.50, y=136.00, z=-2.50] logged in and will be protected for 90 secs.
+[25Jan2025 13:41:08.963] [Server thread/INFO] [Jade/]: Syncing config to sh24_46 (03b56c69-a2ff-3b38-b9b2-68b6dd9bf94c)
+[25Jan2025 13:41:09.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sh24_46 has made the advancement [Now We're Cookin With Gas!]
+[25Jan2025 13:41:09.217] [Server thread/INFO] [APTweaks(Player)/]: Protected Player sh24_46 was successful validated after 0 secs.
+[25Jan2025 13:41:09.218] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player sh24_46!
+[25Jan2025 13:41:13.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sh24_46> hola
+[25Jan2025 13:41:31.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[25Jan2025 13:41:32.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> volvi
+[25Jan2025 13:41:47.880] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.335689544677734) to LOW (avg. 20.56735610961914)
