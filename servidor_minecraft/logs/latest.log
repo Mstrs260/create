@@ -2296,3 +2296,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 20:26:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.814579010009766) to VERY_LOW (avg. 16.791107177734375)
 [26Jan2025 20:27:23.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.628347396850586) to LOW (avg. 20.981521606445312)
 [26Jan2025 20:27:30.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.981521606445312) to VERY_LOW (avg. 17.265647888183594)
+[26Jan2025 20:37:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
