@@ -300,7 +300,7 @@
 			[kinetics.stressValues.v2.capacity]
 				copper_valve_handle = 8.0
 				hand_crank = 8.0
-				steam_engine = 1024.0
+				steam_engine = 3024.0
 				creative_motor = 16384.0
 				large_water_wheel = 256.0
 				water_wheel = 64.0
@@ -365,7 +365,7 @@
 	#.
 	#Maximum distance in blocks a Mechanical Arm can reach across.
 	#Range: > 1
-	mechanicalArmRange = 5
+	mechanicalArmRange = 100
 	#.
 	#Maximum possible range in blocks of redstone link connections.
 	#Range: > 1
