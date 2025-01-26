@@ -2306,3 +2306,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 20:49:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [26Jan2025 20:49:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.366209983825684) to LOW (avg. 20.19928741455078)
 [26Jan2025 20:49:45.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.19928741455078) to VERY_LOW (avg. 14.944051742553711)
+[26Jan2025 20:49:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[26Jan2025 20:50:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:50:12.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:50:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:50:16.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[26Jan2025 20:50:31.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Hidden in the Depths]

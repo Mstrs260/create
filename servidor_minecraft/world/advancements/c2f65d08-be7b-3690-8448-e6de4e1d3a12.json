@@ -6586,6 +6586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-26 20:50:31 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.base/item_stockpile_from_item_vault_stonecutting": {
     "criteria": {
       "has_item_vault": "2025-01-26 20:25:20 +0000"
@@ -6616,6 +6622,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-26 20:50:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-01-26 19:42:38 +0000"
@@ -6631,6 +6643,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-26 19:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-26 20:50:31 +0000"
     },
     "done": true
   },
