@@ -1414,3 +1414,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 18:07:30.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.254006385803223) to LOW (avg. 20.582658767700195)
 [26Jan2025 18:07:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> EAAA
 [26Jan2025 18:07:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.582658767700195) to VERY_LOW (avg. 19.058917999267578)
+[26Jan2025 18:07:45.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.058917999267578) to LOW (avg. 29.548583984375)
+[26Jan2025 18:08:00.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.548583984375) to VERY_LOW (avg. 13.311195373535156)
+[26Jan2025 18:08:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 18:08:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 18:09:30.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.539398193359375) to LOW (avg. 22.654132843017578)
+[26Jan2025 18:09:45.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.654132843017578) to VERY_LOW (avg. 11.529603958129883)
+[26Jan2025 18:13:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Spooky Scary Skeleton]
+[26Jan2025 18:13:41.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[26Jan2025 18:15:56.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melonotjuanjo[/127.147.77.184:59035] logged in with entity id 6227 at (-232.52410493659588, 64.0, 2035.1662479695008)
+[26Jan2025 18:15:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonotjuanjo joined the game
+[26Jan2025 18:15:56.523] [Server thread/INFO] [APTweaks(Player)/]: Player Melonotjuanjo ServerPlayer['Melonotjuanjo'/6227, l='ServerLevel[world]', x=-232.52, y=64.00, z=2035.17] logged in and will be protected for 90 secs.
+[26Jan2025 18:15:56.523] [Server thread/INFO] [Jade/]: Syncing config to Melonotjuanjo (082a3bb6-5617-396a-8475-39b109f1961c)
+[26Jan2025 18:16:00.982] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.782560348510742) to LOW (avg. 37.306488037109375)
+[26Jan2025 18:16:07.822] [Server thread/INFO] [do_a_barrel_roll/]: Client of Melonotjuanjo accepted server config.
+[26Jan2025 18:16:31.189] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Melonotjuanjo was successful validated after 34 secs.
+[26Jan2025 18:16:31.189] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Melonotjuanjo!
+[26Jan2025 18:16:39.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> 0la
+[26Jan2025 18:17:24.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 33.54286295) to NORMAL (avg. 35.45217278)
+[26Jan2025 18:17:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ola
+[26Jan2025 18:17:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> como vas
