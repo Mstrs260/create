@@ -1420,3 +1420,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 00:41:41.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [26Jan2025 00:41:48.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [26Jan2025 00:41:48.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[26Jan2025 01:00:14.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:47373] logged in with entity id 3120 at (-844.8162112347893, 75.0, 1922.2038352855066)
+[26Jan2025 01:00:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[26Jan2025 01:00:14.571] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/3120, l='ServerLevel[world]', x=-844.82, y=75.00, z=1922.20] logged in and will be protected for 90 secs.
+[26Jan2025 01:00:14.571] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[26Jan2025 01:00:20.230] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[26Jan2025 01:00:44.106] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 29 secs.
+[26Jan2025 01:00:44.106] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[26Jan2025 01:00:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 01:01:22.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
+[26Jan2025 01:05:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 01:05:22.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[26Jan2025 01:05:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
