@@ -5639,12 +5639,18 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "nugget": "2025-01-26 19:19:49 +0000",
       "large_plate": "2025-01-25 14:06:21 +0000",
       "tough_handle": "2025-01-25 14:15:29 +0000",
+      "rod": "2025-01-26 19:19:56 +0000",
       "pick_head": "2025-01-25 13:24:53 +0000",
+      "gem": "2025-01-26 19:19:52 +0000",
       "hammer_head": "2025-01-25 14:17:25 +0000",
+      "repair_kit": "2025-01-26 19:19:55 +0000",
+      "small_axe_head": "2025-01-26 19:20:07 +0000",
       "broad_blade": "2025-01-25 15:05:56 +0000",
-      "tool_handle": "2025-01-25 15:01:51 +0000"
+      "tool_handle": "2025-01-25 15:01:51 +0000",
+      "ingot": "2025-01-26 19:19:47 +0000"
     },
     "done": false
   },
@@ -6567,6 +6573,18 @@
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2025-01-26 18:30:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-26 19:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-26 19:25:16 +0000"
     },
     "done": true
   },
