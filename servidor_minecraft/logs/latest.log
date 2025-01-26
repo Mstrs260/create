@@ -1858,3 +1858,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 18:47:30.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.706504821777344) to VERY_LOW (avg. 19.149930953979492)
 [26Jan2025 18:47:53.438] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.799100875854492) to LOW (avg. 20.888315200805664)
 [26Jan2025 18:48:15.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.33592414855957) to VERY_LOW (avg. 7.762953281402588)
+[26Jan2025 18:50:15.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> voy aestal afk
