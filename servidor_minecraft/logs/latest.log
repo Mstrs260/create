@@ -2280,3 +2280,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 20:18:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [26Jan2025 20:18:45.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.46745491027832) to LOW (avg. 20.32944107055664)
 [26Jan2025 20:18:53.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.32944107055664) to VERY_LOW (avg. 18.249906539916992)
+[26Jan2025 20:20:30.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.44996452331543) to LOW (avg. 21.253379821777344)
+[26Jan2025 20:20:45.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.253379821777344) to VERY_LOW (avg. 18.881616592407227)
+[26Jan2025 20:24:03.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:24:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:24:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 1488000]
+[26Jan2025 20:24:31.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:24:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:24:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[26Jan2025 20:25:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:25:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:26:00.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:26:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:26:23.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.549394607543945) to LOW (avg. 22.814579010009766)
+[26Jan2025 20:26:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.814579010009766) to VERY_LOW (avg. 16.791107177734375)
+[26Jan2025 20:27:23.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.628347396850586) to LOW (avg. 20.981521606445312)
+[26Jan2025 20:27:30.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.981521606445312) to VERY_LOW (avg. 17.265647888183594)

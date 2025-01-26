@@ -6586,6 +6586,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/item_stockpile_from_item_vault_stonecutting": {
+    "criteria": {
+      "has_item_vault": "2025-01-26 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-26 19:42:38 +0000"
