@@ -2245,3 +2245,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 19:48:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> aunq si agrego el artifacts
 [26Jan2025 19:48:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> lo tendre que nerfear
 [26Jan2025 19:48:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> hay unas cosas de ahi que estan fokinmente rotas
+[26Jan2025 19:49:08.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.87745475769043) to LOW (avg. 20.68632698059082)
+[26Jan2025 19:49:23.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.68632698059082) to VERY_LOW (avg. 16.242856979370117)
+[26Jan2025 19:50:07.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 19:50:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 19:54:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> de q es la tarea?
+[26Jan2025 19:55:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 1488000]
