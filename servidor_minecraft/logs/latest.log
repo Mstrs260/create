@@ -2251,3 +2251,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 19:50:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [26Jan2025 19:54:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> de q es la tarea?
 [26Jan2025 19:55:25.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 1488000]
+[26Jan2025 19:59:15.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.509235382080078) to LOW (avg. 23.113704681396484)
+[26Jan2025 19:59:30.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.113704681396484) to VERY_LOW (avg. 16.628721237182617)
+[26Jan2025 19:59:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[26Jan2025 20:00:05.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:00:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:01:10.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:01:18.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:01:32.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:01:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:05:08.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.284250259399414) to LOW (avg. 21.088924407958984)
+[26Jan2025 20:05:23.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.088924407958984) to VERY_LOW (avg. 16.122554779052734)
