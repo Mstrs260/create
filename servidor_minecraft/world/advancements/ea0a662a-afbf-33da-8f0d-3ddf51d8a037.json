@@ -646,6 +646,7 @@
       "blackwood_taiga": "2025-01-24 19:38:23 +0000",
       "highland_fields": "2025-01-24 19:43:10 +0000",
       "maple_forest": "2025-01-24 20:42:15 +0000",
+      "frozen_pine_taiga": "2025-01-26 01:37:20 +0000",
       "magnolia_highlands": "2025-01-24 19:43:09 +0000",
       "mountains": "2025-01-24 19:45:03 +0000",
       "boreal_forest": "2025-01-24 20:22:39 +0000",
@@ -668,6 +669,7 @@
       "blackwood_taiga": "2025-01-24 19:38:23 +0000",
       "highland_fields": "2025-01-24 19:43:10 +0000",
       "maple_forest": "2025-01-24 20:42:15 +0000",
+      "frozen_pine_taiga": "2025-01-26 01:37:20 +0000",
       "magnolia_highlands": "2025-01-24 19:43:09 +0000",
       "mountains": "2025-01-24 19:45:03 +0000",
       "boreal_forest": "2025-01-24 20:22:39 +0000",
@@ -4665,6 +4667,144 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/basalt_pillar_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/layered_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-26 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-01-26 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-26 01:29:39 +0000"
     },
     "done": true
   },
