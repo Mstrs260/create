@@ -2312,3 +2312,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 20:50:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [26Jan2025 20:50:16.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
 [26Jan2025 20:50:31.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Hidden in the Depths]
+[26Jan2025 21:03:45.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.88603401184082) to LOW (avg. 23.20343780517578)
+[26Jan2025 21:03:53.438] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.20343780517578) to VERY_LOW (avg. 19.543331146240234)
+[26Jan2025 21:08:45.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.615068435668945) to LOW (avg. 20.79119873046875)
+[26Jan2025 21:08:53.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.79119873046875) to VERY_LOW (avg. 17.95757484436035)
+[26Jan2025 21:09:30.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.792566299438477) to LOW (avg. 20.593978881835938)
+[26Jan2025 21:09:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.593978881835938) to VERY_LOW (avg. 16.766210556030273)
