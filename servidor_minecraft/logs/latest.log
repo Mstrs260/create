@@ -1432,3 +1432,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 01:05:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [26Jan2025 01:05:22.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [26Jan2025 01:05:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[26Jan2025 01:11:11.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/127.188.16.102:44517] logged in with entity id 5660 at (-842.1451168418937, 79.0, 1927.1336313358413)
+[26Jan2025 01:11:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[26Jan2025 01:11:11.461] [Server thread/INFO] [APTweaks(Player)/]: Player awaconqueso132 ServerPlayer['awaconqueso132'/5660, l='ServerLevel[world]', x=-842.15, y=79.00, z=1927.13] logged in and will be protected for 90 secs.
+[26Jan2025 01:11:11.461] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[26Jan2025 01:11:20.419] [Server thread/INFO] [do_a_barrel_roll/]: Client of awaconqueso132 accepted server config.
+[26Jan2025 01:11:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 01:12:02.656] [Server thread/INFO] [APTweaks(Player)/]: Protected Player awaconqueso132 was successful validated after 51 secs.
+[26Jan2025 01:12:02.656] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player awaconqueso132!
+[26Jan2025 01:14:25.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 01:14:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 01:15:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 01:15:38.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[26Jan2025 01:15:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[26Jan2025 01:15:41.157] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.424861907958984) to MEDIUM (avg. 48.22074890136719)
+[26Jan2025 01:15:56.157] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.22074890136719) to VERY_LOW (avg. 1.5905766487121582)
+[26Jan2025 01:18:09.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MC_Dead[/127.198.214.147:36061] logged in with entity id 7841 at (-696.4977459448941, 63.0, 2195.507961930783)
+[26Jan2025 01:18:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead joined the game
+[26Jan2025 01:18:09.874] [Server thread/INFO] [APTweaks(Player)/]: Player MC_Dead ServerPlayer['MC_Dead'/7841, l='ServerLevel[world]', x=-696.50, y=63.00, z=2195.51] logged in and will be protected for 90 secs.
+[26Jan2025 01:18:09.874] [Server thread/INFO] [Jade/]: Syncing config to MC_Dead (ea0a662a-afbf-33da-8f0d-3ddf51d8a037)
+[26Jan2025 01:18:13.094] [Server thread/INFO] [do_a_barrel_roll/]: Client of MC_Dead accepted server config.
+[26Jan2025 01:18:23.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MC_Dead lost connection: Disconnected
+[26Jan2025 01:18:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MC_Dead left the game
