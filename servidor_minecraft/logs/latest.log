@@ -2297,3 +2297,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jan2025 20:27:23.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.628347396850586) to LOW (avg. 20.981521606445312)
 [26Jan2025 20:27:30.940] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.981521606445312) to VERY_LOW (avg. 17.265647888183594)
 [26Jan2025 20:37:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:43:22.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonotjuanjo> trigonometria y calculos avanzados
+[26Jan2025 20:44:06.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> Q
+[26Jan2025 20:44:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> :V
+[26Jan2025 20:44:10.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[26Jan2025 20:44:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ya terminas?
+[26Jan2025 20:49:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[26Jan2025 20:49:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[26Jan2025 20:49:38.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.366209983825684) to LOW (avg. 20.19928741455078)
+[26Jan2025 20:49:45.939] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.19928741455078) to VERY_LOW (avg. 14.944051742553711)
