@@ -4459,6 +4459,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "whitestone": "2025-01-24 20:24:19 +0000",
+      "slimesteel": "2025-01-26 02:58:46 +0000",
       "pig_iron": "2025-01-26 01:45:57 +0000",
       "iron": "2025-01-25 00:43:05 +0000"
     },
@@ -5783,6 +5784,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/rift_stabilizer": {
+    "criteria": {
+      "has_iron": "2025-01-26 02:14:52 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
+    "criteria": {
+      "has_cogwheel": "2025-01-26 02:15:19 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/redstone_divider": {
+    "criteria": {
+      "has_cogwheel": "2025-01-26 02:15:19 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-26 02:17:37 +0000"
@@ -5795,21 +5814,163 @@
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
     "criteria": {
-      "has_cogwheel": "2025-01-26 02:15:19 +0000"
+      "has_block": "2025-01-26 02:29:34 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/rift_stabilizer": {
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
     "criteria": {
-      "has_iron": "2025-01-26 02:14:52 +0000"
+      "has_block": "2025-01-26 02:29:34 +0000"
     },
     "done": true
   },
-  "create_dd:recipes/create_dd.base/crafting/kinetics/redstone_divider": {
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
-      "has_cogwheel": "2025-01-26 02:15:19 +0000"
+      "has_reinforced_cobblestone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-01-26 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:16:07 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-01-26 02:58:46 +0000",
+      "hand_axe": "2025-01-26 02:57:42 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-01-26 02:57:07 +0000",
+      "crafted_boots": "2025-01-26 02:57:10 +0000",
+      "crafted_helmet": "2025-01-26 02:57:05 +0000",
+      "crafted_chestplate": "2025-01-26 02:57:14 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-01-26 03:01:58 +0000"
     },
     "done": true
   },
