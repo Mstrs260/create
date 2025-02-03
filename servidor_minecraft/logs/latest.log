@@ -1475,3 +1475,12 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 20:28:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [03Feb2025 20:28:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [03Feb2025 20:28:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:33:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:34:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
+[03Feb2025 20:34:01.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
+[03Feb2025 20:34:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:35:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:35:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:39:56.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-947, y=103, z=988} BlockPos{x=-948, y=102, z=988}
+[03Feb2025 20:41:48.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:41:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
