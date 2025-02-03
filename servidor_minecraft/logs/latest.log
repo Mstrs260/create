@@ -1505,3 +1505,13 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 20:52:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
 [03Feb2025 20:52:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [03Feb2025 20:52:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:54:56.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:54:59.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:56:31.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[03Feb2025 20:56:36.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:56:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[03Feb2025 20:56:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:56:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[03Feb2025 20:56:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:57:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 21:02:05.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -6.9681214815879,1.1799151179539251,7.159644842348143
