@@ -1515,3 +1515,21 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 20:56:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [03Feb2025 20:57:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [03Feb2025 21:02:05.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -6.9681214815879,1.1799151179539251,7.159644842348143
+[03Feb2025 21:06:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
+[03Feb2025 21:06:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Normal]
+[03Feb2025 21:06:49.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[03Feb2025 21:06:57.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 21:06:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Spectator Mode]
+[03Feb2025 21:07:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 21:07:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 21:09:37.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1043, y=51, z=1159} BlockPos{x=-1043, y=52, z=1159}
+[03Feb2025 21:09:37.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1043, y=51, z=1159} BlockPos{x=-1043, y=52, z=1159}
+[03Feb2025 21:09:37.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1043, y=50, z=1160} BlockPos{x=-1043, y=52, z=1159}
+[03Feb2025 21:09:50.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 2.1161108909545874,9.992336564904171,-0.3141526570811948
+[03Feb2025 21:10:00.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1054, y=55, z=1188} BlockPos{x=-1053, y=56, z=1187}
+[03Feb2025 21:10:46.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1101, y=56, z=1108} BlockPos{x=-1100, y=56, z=1109}
+[03Feb2025 21:10:46.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=56, z=1108} BlockPos{x=-1100, y=56, z=1109}
+[03Feb2025 21:11:02.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 21:11:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 21:11:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 21:11:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]

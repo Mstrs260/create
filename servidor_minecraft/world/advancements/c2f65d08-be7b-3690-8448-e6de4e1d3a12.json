@@ -3221,6 +3221,7 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2025-02-03 21:02:04 +0000",
       "golden_apple": "2025-02-03 19:57:29 +0000"
     },
     "done": false
@@ -5709,6 +5710,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-03 21:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 20:47:25 +0000"
@@ -5818,6 +5825,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-02-03 20:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 20:47:25 +0000"
@@ -5917,6 +5930,12 @@
   "create_connected:recipes/crafting/kinetics/item_silo": {
     "criteria": {
       "has_item": "2025-02-03 20:54:06 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-02-03 20:58:53 +0000"
     },
     "done": true
   },
