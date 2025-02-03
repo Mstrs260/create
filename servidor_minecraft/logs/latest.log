@@ -1349,3 +1349,121 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 20:06:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Removed every effect from awaconqueso132]
 [03Feb2025 20:10:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
 [03Feb2025 20:10:20.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:13:05.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [The Andesite Age]
+[03Feb2025 20:14:20.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Bonk!]
+[03Feb2025 20:14:47.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Ice Bucket Challenge]
+[03Feb2025 20:16:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Incendium]
+[03Feb2025 20:16:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [We Need to Go Deeper]
+[03Feb2025 20:16:11.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11326ms or 226 ticks behind
+[03Feb2025 20:16:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [Strange Biomes]
+[03Feb2025 20:16:18.605] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.605] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.605] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.616] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.621] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.621] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.625] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.625] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.657] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[03Feb2025 20:16:18.898] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.901] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.901] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.903] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.903] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.920] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.922] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.923] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.925] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.925] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.926] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.931] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.931] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.931] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.934] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.934] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.938] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.938] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[03Feb2025 20:16:18.939] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.942] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.943] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.948] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[03Feb2025 20:16:18.948] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.951] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.951] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.953] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.953] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.957] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.957] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.970] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.970] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:18.997] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.026] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.051] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[03Feb2025 20:16:19.055] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.056] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.056] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.056] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.060] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.060] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.060] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.061] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.061] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.070] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.080] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.080] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.080] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.081] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.081] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.081] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.081] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.081] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.118] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.118] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.119] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.120] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.151] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.151] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.151] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.151] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.151] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:19.152] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[03Feb2025 20:16:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:16:20.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 0.46776922474090554,-9.584354139212522,3.874211852475355
+[03Feb2025 20:16:28.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[03Feb2025 20:16:34.555] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12887, l='ServerLevel[world]', x=-190.00, y=31.00, z=-6.00] as it would cause deadlock
+[03Feb2025 20:16:34.673] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12894, l='ServerLevel[world]', x=-77.00, y=31.00, z=-11.00] as it would cause deadlock
+[03Feb2025 20:17:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 20:17:35.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -6.810413416127474,-7.197385410125278,-1.947047018711089
+[03Feb2025 20:17:42.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -0.3113031477510759,-10.866569407729159,0.008638898049667887
+[03Feb2025 20:17:42.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[03Feb2025 20:17:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[03Feb2025 20:17:55.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:38558] logged in with entity id 13855 at (-127.33536543713015, 65.1460884858262, 134.9562724031637)
+[03Feb2025 20:17:55.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[03Feb2025 20:17:55.687] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[03Feb2025 20:18:25.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -9.71904569845762,0.0,2.6954631482478817
+[03Feb2025 20:18:37.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -10.4621905133898,0.0,0.08987962697176499
+[03Feb2025 20:18:40.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -10.236959725959196,0.0,-2.0397629957169556
+[03Feb2025 20:18:42.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has made the advancement [A Terrible Fortress]
+[03Feb2025 20:18:48.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 10.002652061907497,0.0,0.5840381686976741
+[03Feb2025 20:18:53.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 5.030835411923221,8.437503000615749,-1.8873475818843133
+[03Feb2025 20:19:00.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 6.085437006844245,6.063795327263691,-5.695828593590434
+[03Feb2025 20:19:03.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 7.772517406267639,6.3596401240536125,-0.44030433387754897
+[03Feb2025 20:19:18.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 3.687655341848071,9.191532403160906,-2.692648264241086
+[03Feb2025 20:19:22.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[03Feb2025 20:19:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[03Feb2025 20:20:48.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Feb2025 20:20:48.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: webiwabo<--[HERE]
+[03Feb2025 20:21:07.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:36818] logged in with entity id 14796 at (-125.32530292651148, 99.54924270131167, 119.97425259557255)
+[03Feb2025 20:21:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[03Feb2025 20:21:07.947] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[03Feb2025 20:21:22.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 0.0,-11.694736062225488,0.0
+[03Feb2025 20:21:30.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 1.597863740486531,10.124943274911928,-0.9191886694373608
+[03Feb2025 20:21:31.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -0.5256251595436652,-10.806526110008988,-0.5514794727952221
+[03Feb2025 20:21:34.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 2.868962055638562,9.740552563171093,-2.0330686337310055
+[03Feb2025 20:21:41.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 4.109999132390001,8.98425403161464,-1.9869392292753076
+[03Feb2025 20:21:52.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
