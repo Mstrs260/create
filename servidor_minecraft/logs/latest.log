@@ -6560,3 +6560,4 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Feb2025 17:57:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Teleported awaconqueso132 to 10.500000, 66.500000, 177.500000]
 [03Feb2025 17:57:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [03Feb2025 17:58:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[03Feb2025 18:09:17.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/6091, l='ServerLevel[world]', x=36.24, y=66.00, z=131.38] died, message: 'Butcher was slain by Zombie'
