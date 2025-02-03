@@ -1540,3 +1540,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [03Feb2025 21:16:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
 [03Feb2025 21:17:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
 [03Feb2025 21:22:52.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 9.578785255454932,2.252203340253729,-2.8138008987382364
+[03Feb2025 21:24:36.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[03Feb2025 21:27:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 has reached the goal [Strong or Careful]
+[03Feb2025 21:27:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 was slain by Zombie
+[03Feb2025 21:27:13.500] [Server thread/WARN] [tombstone/]: The drop event of the player awaconqueso132 was canceled by another mod
+[03Feb2025 21:27:13.504] [Server thread/INFO] [tombstone/]: The player awaconqueso132 has successfully been saved
