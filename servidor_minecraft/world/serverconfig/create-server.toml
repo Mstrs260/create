@@ -130,7 +130,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		fanProcessingTime = 150
+		fanProcessingTime = 10
 
 	#.
 	#Moving Contraptions
@@ -299,11 +299,11 @@
 			#Configure how much stress a source can accommodate for.
 			[kinetics.stressValues.v2.capacity]
 				copper_valve_handle = 8.0
-				hand_crank = 8.0
+				hand_crank = 16.0
 				windmill_bearing = 512.0
-				steam_engine = 1024.0
+				steam_engine = 2048.0
 				creative_motor = 16384.0
-				large_water_wheel = 128.0
+				large_water_wheel = 512.0
 				water_wheel = 32.0
 
 #.
@@ -314,7 +314,7 @@
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
-	fluidTankCapacity = 8
+	fluidTankCapacity = 16
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
@@ -324,7 +324,7 @@
 	#[in Blocks]
 	#The maximum distance a mechanical pump can push or pull liquids on either side.
 	#Range: > 1
-	mechanicalPumpRange = 16
+	mechanicalPumpRange = 300
 	#.
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
