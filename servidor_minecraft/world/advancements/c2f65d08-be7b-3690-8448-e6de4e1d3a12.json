@@ -1814,12 +1814,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-11 16:46:16 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
@@ -1829,6 +1823,12 @@
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-11 16:40:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-11 16:54:28 +0000"
     },
     "done": true
   },
@@ -1856,9 +1856,21 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-11 16:54:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-11 16:50:10 +0000"
     },
     "done": true
   },
@@ -1892,6 +1904,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-11 16:50:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
@@ -1901,6 +1919,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-11 16:47:45 +0000"
     },
     "done": true
   },
@@ -2360,6 +2384,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/pink_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_pink_dye]": "2025-02-11 16:50:02 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
@@ -2564,6 +2594,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2025-02-11 16:50:02 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-11 16:40:06 +0000"
@@ -2597,6 +2633,18 @@
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2025-02-11 16:27:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-11 16:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-11 16:50:10 +0000"
     },
     "done": true
   },
@@ -2726,6 +2774,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-11 16:50:10 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_support": {
     "criteria": {
       "has_item": "2025-02-11 16:22:13 +0000"
@@ -2798,6 +2852,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-02-11 16:50:03 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-11 16:40:06 +0000"
@@ -2831,6 +2891,12 @@
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-11 16:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-11 16:50:10 +0000"
     },
     "done": true
   },
