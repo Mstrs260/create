@@ -1030,3 +1030,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [11Feb2025 14:09:23.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
 [11Feb2025 14:09:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 408000]
 [11Feb2025 14:09:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 14:09:59.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 14:10:35.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[11Feb2025 14:10:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
