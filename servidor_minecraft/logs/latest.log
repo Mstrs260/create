@@ -1016,3 +1016,17 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [11Feb2025 13:52:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Global mask disabled.
 [11Feb2025 13:52:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [11Feb2025 13:52:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: freeze<--[HERE]
+[11Feb2025 14:07:16.758] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11Feb2025 14:07:16.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:54712] logged in with entity id 681 at (334.9411077668579, 71.0, 141.6490746635691)
+[11Feb2025 14:07:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[11Feb2025 14:07:17.187] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[11Feb2025 14:07:20.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[11Feb2025 14:07:57.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[11Feb2025 14:07:57.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[11Feb2025 14:08:30.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:49276] logged in with entity id 1473 at (334.9411077668579, 71.0, 141.6490746635691)
+[11Feb2025 14:08:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[11Feb2025 14:08:30.150] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[11Feb2025 14:09:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> eso yo no lo sbia
+[11Feb2025 14:09:23.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: The difficulty has been set to Peaceful]
+[11Feb2025 14:09:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 408000]
+[11Feb2025 14:09:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
