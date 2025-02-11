@@ -1020,3 +1020,18 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [11Feb2025 16:19:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
 [11Feb2025 16:19:20.938] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
 [11Feb2025 16:19:24.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11Feb2025 16:20:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> un verano en nueva yhol
+[11Feb2025 16:20:54.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 16:21:09.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 16:21:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 16:21:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 16:21:45.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 16:21:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 16:25:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the time to 408000]
+[11Feb2025 16:25:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 16:25:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 16:26:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 16:26:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 16:27:41.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! 4.217898511149201,1.0409930873803646,-9.578027065092499
+[11Feb2025 16:28:11.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved too quickly! -4.091970056047103,1.1691863785898349,-9.863017939403221
+[11Feb2025 16:30:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
