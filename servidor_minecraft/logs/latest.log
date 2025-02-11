@@ -1120,3 +1120,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [11Feb2025 17:44:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [11Feb2025 17:49:36.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
 [11Feb2025 17:49:36.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[11Feb2025 17:53:18.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:41024] logged in with entity id 65940 at (364.6915155386205, 73.0, 203.47167282468516)
+[11Feb2025 17:53:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[11Feb2025 17:53:18.403] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[11Feb2025 17:53:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[11Feb2025 17:54:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[11Feb2025 17:54:21.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[11Feb2025 17:55:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
