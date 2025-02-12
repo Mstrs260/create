@@ -1029,3 +1029,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [12Feb2025 22:21:28.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:47450] logged in with entity id 3708 at (366.19090252460734, 72.0, 197.00359232943083)
 [12Feb2025 22:21:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
 [12Feb2025 22:21:28.900] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[12Feb2025 22:22:28.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[12Feb2025 22:22:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[12Feb2025 22:25:12.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b4f9732[id=<null>,name=awaconqueso132,properties={},legacy=false] (/172.30.145.167:34058) lost connection: Disconnected
