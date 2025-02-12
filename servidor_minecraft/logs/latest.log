@@ -1135,3 +1135,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [12Feb2025 19:50:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> sonrisita nerviosa
 [12Feb2025 19:51:18.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
 [12Feb2025 19:51:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[12Feb2025 19:59:21.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Feb2025 19:59:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: coñaso<--[HERE]
+[12Feb2025 19:59:35.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ta vaina ta bien?
+[12Feb2025 20:03:23.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:48790] logged in with entity id 20255 at (338.65471321619754, 79.0, 126.51686179051799)
+[12Feb2025 20:03:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[12Feb2025 20:03:23.076] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[12Feb2025 20:04:33.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> AAAAAAAAAAAAAAAAAA
