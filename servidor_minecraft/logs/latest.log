@@ -1112,3 +1112,26 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [12Feb2025 19:44:10.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> BROO
 [12Feb2025 19:44:23.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [12Feb2025 19:44:23.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[12Feb2025 19:46:45.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:54430] logged in with entity id 16095 at (333.5, 71.875, 146.5)
+[12Feb2025 19:46:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[12Feb2025 19:46:46.038] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[12Feb2025 19:47:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> wao
+[12Feb2025 19:47:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> deus meo
+[12Feb2025 19:47:27.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> vaya pingsinho
+[12Feb2025 19:47:30.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[12Feb2025 19:47:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[12Feb2025 19:48:28.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:39544] logged in with entity id 17201 at (333.5, 71.875, 146.5)
+[12Feb2025 19:48:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[12Feb2025 19:48:29.022] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[12Feb2025 19:48:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> e
+[12Feb2025 19:48:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> a
+[12Feb2025 19:48:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> pruebita
+[12Feb2025 19:48:59.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[12Feb2025 19:49:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> si
+[12Feb2025 19:49:06.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ps elvideo no me deja
+[12Feb2025 19:49:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[12Feb2025 19:49:21.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[12Feb2025 19:49:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> deos mio
+[12Feb2025 19:50:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> sonrisita nerviosa
+[12Feb2025 19:51:18.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
+[12Feb2025 19:51:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
