@@ -1026,3 +1026,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [12Feb2025 21:59:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
 [12Feb2025 22:00:02.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [12Feb2025 22:00:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[12Feb2025 22:21:28.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:47450] logged in with entity id 3708 at (366.19090252460734, 72.0, 197.00359232943083)
+[12Feb2025 22:21:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[12Feb2025 22:21:28.900] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
