@@ -1114,3 +1114,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [13Feb2025 15:58:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
 [13Feb2025 16:01:24.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [13Feb2025 16:01:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[13Feb2025 16:46:24.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:45652] logged in with entity id 39433 at (355.68437878297743, 71.0, 135.1724623372849)
+[13Feb2025 16:46:24.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[13Feb2025 16:46:24.763] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
