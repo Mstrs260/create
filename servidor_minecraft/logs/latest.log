@@ -1047,3 +1047,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [12Feb2025 23:50:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
 [12Feb2025 23:50:06.597] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
 [12Feb2025 23:50:09.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12Feb2025 23:50:26.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
+[12Feb2025 23:51:21.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Timed out
+[12Feb2025 23:51:21.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
