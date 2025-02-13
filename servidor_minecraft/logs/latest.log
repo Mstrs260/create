@@ -1028,3 +1028,42 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [13Feb2025 15:24:16.905] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
 [13Feb2025 15:24:43.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
 [13Feb2025 15:24:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[13Feb2025 15:28:56.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:38596] logged in with entity id 3596 at (362.03780661854245, 72.0, 198.4964120651607)
+[13Feb2025 15:28:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[13Feb2025 15:28:56.173] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[13Feb2025 15:30:06.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> gg
+[13Feb2025 15:30:13.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> aver
+[13Feb2025 15:30:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> q necesito pa una de zinc
+[13Feb2025 15:32:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> aveces un poco de lag
+[13Feb2025 15:32:10.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[13Feb2025 15:32:10.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[13Feb2025 15:32:20.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:49910] logged in with entity id 6743 at (333.5, 71.875, 146.5)
+[13Feb2025 15:32:21.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[13Feb2025 15:32:21.024] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[13Feb2025 15:32:47.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[13Feb2025 15:32:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> pero yaya
+[13Feb2025 15:34:03.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set the weather to clear]
+[13Feb2025 15:34:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[13Feb2025 15:35:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[13Feb2025 15:35:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[13Feb2025 15:36:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Creative Mode]
+[13Feb2025 15:36:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [awaconqueso132: Set own game mode to Survival Mode]
+[13Feb2025 15:37:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> palomita
+[13Feb2025 15:38:25.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 moved wrongly!
+[13Feb2025 15:38:52.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[13Feb2025 15:38:52.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[13Feb2025 15:38:56.366] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50f875ab[id=<null>,name=awaconqueso132,properties={},legacy=false] (/172.30.145.167:38168) lost connection: Disconnected
+[13Feb2025 15:43:05.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:50548] logged in with entity id 15981 at (357.1137739327347, 74.00000011024852, 161.6908314762651)
+[13Feb2025 15:43:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[13Feb2025 15:43:05.122] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[13Feb2025 15:43:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> XD
+[13Feb2025 15:44:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[13Feb2025 15:45:02.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> poco el antee
+[13Feb2025 15:45:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> cambie
+[13Feb2025 15:45:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> pero no me disuga
+[13Feb2025 15:45:27.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[13Feb2025 15:45:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
+[13Feb2025 15:45:43.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:56542] logged in with entity id 19671 at (363.07703222540744, 72.0, 197.27609214746326)
+[13Feb2025 15:45:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
+[13Feb2025 15:45:43.320] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[13Feb2025 15:46:03.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
