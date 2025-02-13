@@ -1841,3 +1841,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [13Feb2025 20:26:12.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: awaconqueso132[/172.30.145.167:42230] logged in with entity id 1436 at (-180.5, 121.0, -150.5)
 [13Feb2025 20:26:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 joined the game
 [13Feb2025 20:26:12.844] [Server thread/INFO] [Jade/]: Syncing config to awaconqueso132 (c2f65d08-be7b-3690-8448-e6de4e1d3a12)
+[13Feb2025 20:26:55.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[13Feb2025 20:27:00.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> w
+[13Feb2025 20:27:39.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
+[13Feb2025 20:27:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <awaconqueso132> ea
+[13Feb2025 20:27:53.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: awaconqueso132 lost connection: Disconnected
+[13Feb2025 20:27:53.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awaconqueso132 left the game
