@@ -212,7 +212,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "seasonal_forest": "2025-02-13 20:18:57 +0000"
+      "seasonal_forest": "2025-02-13 20:18:57 +0000",
+      "tundra": "2025-02-14 00:51:46 +0000"
     },
     "done": false
   },
@@ -515,7 +516,10 @@
       "minecraft:deep_ocean": "2025-02-13 21:49:32 +0000",
       "minecraft:stony_shore": "2025-02-13 20:45:41 +0000",
       "minecraft:cold_ocean": "2025-02-13 21:45:17 +0000",
-      "minecraft:deep_cold_ocean": "2025-02-13 21:46:00 +0000"
+      "minecraft:deep_cold_ocean": "2025-02-13 21:46:00 +0000",
+      "minecraft:frozen_ocean": "2025-02-14 00:50:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-14 00:47:12 +0000",
+      "minecraft:snowy_beach": "2025-02-14 00:51:05 +0000"
     },
     "done": false
   },
@@ -2880,6 +2884,103 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-13 22:19:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-14 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-14 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "hyacinth_deeps": "2025-02-14 00:47:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-14 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "hyacinth_deeps": "2025-02-14 00:47:33 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:crimson_tundra": "2025-02-14 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2025-02-14 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-14 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:shattered_glacier": "2025-02-14 00:51:37 +0000",
+      "biomeswevegone:crimson_tundra": "2025-02-14 00:51:32 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-14 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 00:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-14 00:52:49 +0000"
     },
     "done": true
   },
